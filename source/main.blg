@@ -1,0 +1,57 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+The style file: elsarticle-num.bst
+Reallocated field_info (elt_size=4) to 11642 items from 5000.
+Database file #1: CLReview_bib.bib.bib
+Warning--empty publisher in BetheSalpeterBook
+Warning--empty title in DiracQuote
+Warning--empty journal in Johnson:2018hrx
+Warning--empty journal in Wei:2017wns
+Warning--empty journal in Witten:2010zr
+Warning--empty journal in Ulybyshev:2017hbs
+Warning--empty journal in Wosiek:2015iwl
+Warning--empty pages in Wosiek:2018jht
+Warning--empty journal in Kogut:2019qmi
+You've used 246 entries,
+            2937 wiz_defined-function locations,
+            2555 strings with 62455 characters,
+and the built_in function-call counts, 81026 in all, are:
+= -- 8431
+> -- 2197
+< -- 8
++ -- 896
+- -- 650
+* -- 7563
+:= -- 11146
+add.period$ -- 467
+call.type$ -- 246
+change.case$ -- 245
+chr.to.int$ -- 0
+cite$ -- 255
+duplicate$ -- 2261
+empty$ -- 8700
+format.name$ -- 840
+if$ -- 20708
+int.to.chr$ -- 0
+int.to.str$ -- 246
+missing$ -- 246
+newline$ -- 1120
+num.names$ -- 248
+pop$ -- 1108
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 4554
+stack$ -- 0
+substring$ -- 4468
+swap$ -- 1019
+text.length$ -- 8
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 9
+while$ -- 506
+width$ -- 249
+write$ -- 2631
+(There were 9 warnings)

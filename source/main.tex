@@ -1,0 +1,167 @@
+%%%
+\documentclass[3p]{elsarticle}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{subfiles}
+\usepackage{subcaption}
+\usepackage{amsmath}
+%\usepackage{hyperref}
+%\usepackage{lineno}
+%\usepackage[T1]{fontenc}
+
+\usepackage{floatrow}
+\usepackage[colorlinks]{hyperref}
+
+%%%%%%%%%
+%\makeatletter
+%\let\c@author\relax
+%\makeatother
+%\let\bibhang\relax
+%\let\citename\relax
+%\let\bibfont\relax
+%\let\Citeauthor\relax
+%\expandafter\let\csname ver@natbib.sty\endcsname\relax
+%
+%\usepackage[
+%	style=phys,
+%	backend=bibtex8,
+%	isbn=false,
+%    	url=false,
+%%	natbib=true,
+%    	doi=false]{biblatex}
+%%\bibliographystyle{elsarticle-num}
+%\bibliography{CLReview_bib.bib}
+%
+%\renewbibmacro{in:}{}
+%
+%%%%%%%%%
+
+
+\newcommand{\etal}{{\it et al.}}
+\newcommand{\beq}{\begin{equation}}
+\newcommand{\eeq}{\end{equation}}
+\newcommand{\bea}{\begin{eqnarray}}
+\newcommand{\eea}{\end{eqnarray}}
+\newcommand{\ev}[1]{\left\langle #1 \right\rangle}
+\renewcommand{\d}{{\rm d}}
+
+% Way to reference equations consistently - if we don't want to use it this is fine.
+\newcommand{\equref}[1]{Eq.~(\ref{Eq:#1})}
+\newcommand{\figref}[1]{Fig.~\ref{fig:#1}}
+\newcommand{\secref}[1]{Sec.~\ref{sect:#1}}
+
+\def\CP{{\mathcal P}}
+\def\CC{{\mathcal C}}
+\def\CW{{\mathcal W}}
+\def\CO{{\mathcal O}}
+\def\CZ{{\mathcal Z}}
+\def\CD{{\mathcal D}}
+\def\del{{\nabla}}
+
+%%%%%%%%%%%%%%%
+
+\newcommand*{\doi}[1]{\href{http://dx.doi.org/#1}{doi: #1}}
+
+% Draft stuff, take this out for real version.
+\usepackage[dvipsnames]{xcolor}
+\newcommand{\lukas}[1]{{\color{Cerulean} #1}}
+\newcommand{\draftnote}[1]{{\color{red} \bf[NOTE: #1]}}
+\newcommand{\casey}[1]{{\color{Green} #1}}
+\newcommand{\jed}[1]{{\color{Blue} #1}}
+\usepackage{soul}
+\newcommand{\cancel}[1]{\st{#1}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\journal{\ }
+
+
+\begin{document}
+
+\begin{frontmatter}
+
+\title{Complex Langevin and other approaches to \\ the sign problem in quantum many-body physics}
+
+\author[unc]{C. E.~Berger}
+\ead{cberger3@live.unc.edu}
+
+\author[tud,gsi]{L.~Rammelm\"uller}
+\ead{lrammelmueller@theorie.ikp.physik.tu-darmstadt.de}
+
+\author[unc]{A. C.~Loheac}
+\ead{loheac@live.unc.edu}
+
+\author[tud]{F.~Ehmann}
+\ead{fehmann@theorie.ikp.physik.tu-darmstadt.de}
+
+\author[tud,emmi,fair]{J.~Braun}
+\ead{jens.braun@physik.tu-darmstadt.de}
+
+\author[unc]{J. E.~Drut}
+\ead{drut@email.unc.edu}
+
+\address[unc]{Department of Physics and Astronomy, University of North Carolina, Chapel Hill, North Carolina 27599, USA}
+\address[tud]{Institut f\"ur Kernphysik (Theoriezentrum), Technische Universit\"at Darmstadt, D-64289 Darmstadt, Germany}
+\address[gsi]{GSI Helmholtzzentrum f\"ur Schwerionenforschung GmbH, Planckstra\ss e 1, D-64291 Darmstadt, Germany}
+\address[fair]{FAIR, Facility for Antiproton and Ion Research in Europe GmbH, Planckstra\ss e 1, D-64291   Darmstadt, Germany}
+\address[emmi]{ExtreMe Matter Institute EMMI, GSI, Planckstra{\ss}e 1, D-64291 Darmstadt, Germany}
+
+%%%%%%%%%%%%%%%%%%%%%
+\begin{abstract}
+We review the theory and applications of complex stochastic quantization to the quantum many-body problem.
+Along the way, we present a brief overview of a number of ideas that either ameliorate or in some cases altogether solve the sign
+problem, including the classic reweighting method, alternative Hubbard-Stratonovich transformations, dual variables (for
+bosons and fermions), Majorana fermions, density-of-states methods, imaginary asymmetry approaches, and
+Lefschetz thimbles. We discuss some aspects of 
+the mathematical underpinnings of conventional stochastic quantization, provide a few pedagogical examples,
+and summarize open challenges and practical solutions for the complex case. Finally, we review the recent applications of complex Langevin
+to quantum field theory in relativistic and nonrelativistic quantum matter, with an emphasis on the nonrelativistic case.
+\end{abstract}
+%%%%%%%%%%%%%%%%%%%%%
+
+\begin{keyword}
+Sign problem \sep stochastic quantization \sep complex Langevin %algorithm
+\end{keyword}
+
+\end{frontmatter}
+
+\tableofcontents
+
+%\linenumbers
+\newpage
+\subfile{./1introduction/introduction.tex}
+%\newpage
+\subfile{./2generalformalism/generalformalism.tex}
+%\newpage
+\subfile{./3mathunderpinnings/mathunderpinnings.tex}
+%\newpage
+\subfile{./4applications-REL/relativistic.tex}
+%\newpage
+\subfile{./5applications-NREL/nonrelativistic.tex}
+%\newpage
+\subfile{./6outlook/outlook.tex}
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Acknowledgements}
+
+We are especially grateful to G. Aarts, F. Attanasio, G. Basar, S. Chandrasekharan, P. de Forcrand, C. Gattringer, E. Huffman, K. Langfeld, and E. Seiler
+for their extremely useful comments on earlier versions of this manuscript.
+We would also like to acknowledge G. Aarts, C. Gattringer, C. Ratti, and H. Singh for kindly allowing us to reproduce their figures.
+
+This material is based upon work supported by the National Science Foundation under
+Grant No. PHY{1452635} (Computational Physics Program).
+C.E.B. acknowledges support from the United States Department of Energy through the
+Computational Science Graduate Fellowship (DOE CSGF) under grant number DE-FG02-97ER25308.
+J.B. acknowledges support by the DFG under grant BR 4005/4-1 (Heisenberg program). J.B. and F.E. acknowledge 
+support by the DFG grant BR 4005/5-1. 
+J.B. and L.R. acknowledge support by HIC for FAIR within the LOEWE program of the State of Hesse.
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{References}
+%\bibliographystyle{elsarticle-num}
+\bibliographystyle{mybst}
+\bibliography{CLReview_bib.bib}
+%\printbibliography
+
+\end{document}

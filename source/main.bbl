@@ -1,0 +1,1981 @@
+\begin{thebibliography}{100}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{BetheSalpeterBook}
+H.~A. {Bethe}, E.~E. {Salpeter}, Quantum Mechanics of One- and Two-Electron
+  Atoms, 1957.
+
+\bibitem{DiracQuote}
+P.~A.~M. Dirac, Proceedings of the Royal Society of London. Series A,
+  Containing Papers of a Mathematical and Physical Character 123~(792).
+
+\bibitem{BARRETT2013131}
+B.~R. Barrett, P.~Navratil, J.~P. Vary, Ab initio no core shell model, Progress
+  in Particle and Nuclear Physics 69 (2013) 131 -- 181.
+\newblock \href {http://dx.doi.org/https://doi.org/10.1016/j.ppnp.2012.10.003}
+  {\path{doi:https://doi.org/10.1016/j.ppnp.2012.10.003}}.
+
+\bibitem{Johnson:2018hrx}
+C.~W. Johnson, W.~E. Ormand, K.~S. McElvain, H.~Shan, {BIGSTICK: A flexible
+  configuration-interaction shell-model code}\href
+  {http://arxiv.org/abs/1801.08432} {\path{arXiv:1801.08432}}.
+
+\bibitem{RevModPhys.79.291}
+R.~J. Bartlett, M.~Musia\l{},
+  \href{https://link.aps.org/doi/10.1103/RevModPhys.79.291}{Coupled-cluster
+  theory in quantum chemistry}, Rev. Mod. Phys. 79 (2007) 291--352.
+\newblock \href {http://dx.doi.org/10.1103/RevModPhys.79.291}
+  {\path{doi:10.1103/RevModPhys.79.291}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/RevModPhys.79.291}
+
+\bibitem{Hagen:2013nca}
+G.~Hagen, T.~Papenbrock, M.~Hjorth-Jensen, D.~J. Dean, {Coupled-cluster
+  computations of atomic nuclei}, Rept. Prog. Phys. 77~(9) (2014) 096302.
+\newblock \href {http://arxiv.org/abs/1312.7872} {\path{arXiv:1312.7872}},
+  \href {http://dx.doi.org/10.1088/0034-4885/77/9/096302}
+  {\path{doi:10.1088/0034-4885/77/9/096302}}.
+
+\bibitem{Burgess:2007pt}
+C.~P. Burgess, Introduction to effective field theory, Ann. Rev. Nucl. Part.
+  Sci. 57 (2007) 329--362.
+\newblock \href {http://arxiv.org/abs/hep-th/0701053}
+  {\path{arXiv:hep-th/0701053}}, \href
+  {http://dx.doi.org/10.1146/annurev.nucl.56.080805.140508}
+  {\path{doi:10.1146/annurev.nucl.56.080805.140508}}.
+
+\bibitem{RevModPhys.81.1773}
+E.~Epelbaum, H.-W. Hammer, U.-G. Mei\ss{}ner,
+  \href{https://link.aps.org/doi/10.1103/RevModPhys.81.1773}{Modern theory of
+  nuclear forces}, Rev. Mod. Phys. 81 (2009) 1773--1825.
+\newblock \href {http://dx.doi.org/10.1103/RevModPhys.81.1773}
+  {\path{doi:10.1103/RevModPhys.81.1773}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/RevModPhys.81.1773}
+
+\bibitem{Machleidt:2011zz}
+R.~Machleidt, D.~R. Entem, {Chiral effective field theory and nuclear forces},
+  Phys. Rept. 503 (2011) 1--75.
+\newblock \href {http://arxiv.org/abs/1105.2919} {\path{arXiv:1105.2919}},
+  \href {http://dx.doi.org/10.1016/j.physrep.2011.02.001}
+  {\path{doi:10.1016/j.physrep.2011.02.001}}.
+
+\bibitem{1997cond.mat..3210S}
+R.~{Shankar}, {Effective Field Theory in Condensed Matter Physics}, arXiv
+  e-prints (1997) cond--mat/9703210\href
+  {http://arxiv.org/abs/cond-mat/9703210} {\path{arXiv:cond-mat/9703210}}.
+
+\bibitem{1998cond.mat..5152S}
+A.~M.~J. {Schakel}, {Boulevard of Broken Symmetries}, arXiv e-prints (1998)
+  cond--mat/9805152\href {http://arxiv.org/abs/cond-mat/9805152}
+  {\path{arXiv:cond-mat/9805152}}.
+
+\bibitem{Metropolis}
+N.~Metropolis, A.~W. Rosenbluth, M.~N. Rosenbluth, A.~H. Teller, E.~Teller,
+  \href{https://doi.org/10.1063/1.1699114}{Equation of state calculations by
+  fast computing machines}, The Journal of Chemical Physics 21~(6) (1953)
+  1087--1092.
+\newblock \href {http://arxiv.org/abs/https://doi.org/10.1063/1.1699114}
+  {\path{arXiv:https://doi.org/10.1063/1.1699114}}, \href
+  {http://dx.doi.org/10.1063/1.1699114} {\path{doi:10.1063/1.1699114}}.
+\newline\urlprefix\url{https://doi.org/10.1063/1.1699114}
+
+\bibitem{PhysRevB.41.9301}
+E.~Y. Loh, J.~E. Gubernatis, R.~T. Scalettar, S.~R. White, D.~J. Scalapino,
+  R.~L. Sugar, \href{https://link.aps.org/doi/10.1103/PhysRevB.41.9301}{Sign
+  problem in the numerical simulation of many-electron systems}, Phys. Rev. B
+  41 (1990) 9301--9307.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevB.41.9301}
+  {\path{doi:10.1103/PhysRevB.41.9301}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevB.41.9301}
+
+\bibitem{KOONIN19971}
+S.~Koonin, D.~Dean, K.~Langanke,
+  \href{http://www.sciencedirect.com/science/article/pii/S0370157396000178}{Shell
+  model monte carlo methods}, Physics Reports 278~(1) (1997) 1 -- 77.
+\newblock \href
+  {http://dx.doi.org/https://doi.org/10.1016/S0370-1573(96)00017-8}
+  {\path{doi:https://doi.org/10.1016/S0370-1573(96)00017-8}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0370157396000178}
+
+\bibitem{Alhassid:2016ojg}
+Y.~Alhassid, {The shell model Monte Carlo approach to level densities: recent
+  developments and perspectives}, Eur. Phys. J. A51~(12) (2015) 171.
+\newblock \href {http://arxiv.org/abs/1601.00107} {\path{arXiv:1601.00107}},
+  \href {http://dx.doi.org/10.1140/epja/i2015-15171-3}
+  {\path{doi:10.1140/epja/i2015-15171-3}}.
+
+\bibitem{Gattringer:2016kco}
+C.~Gattringer, K.~Langfeld, {Approaches to the sign problem in lattice field
+  theory}, Int. J. Mod. Phys. A31~(22) (2016) 1643007.
+\newblock \href {http://arxiv.org/abs/1603.09517} {\path{arXiv:1603.09517}},
+  \href {http://dx.doi.org/10.1142/S0217751X16430077}
+  {\path{doi:10.1142/S0217751X16430077}}.
+
+\bibitem{Bongiovanni:2016ess}
+L.~Bongiovanni, {Numerical methods for the sign problem in Lattice Field
+  Theory}, Ph.D. thesis, Swansea U. (2015).
+\newblock \href {http://arxiv.org/abs/1603.06458} {\path{arXiv:1603.06458}}.
+
+\bibitem{Aarts:2015tyj}
+G.~Aarts, {Introductory lectures on lattice QCD at nonzero baryon number}, J.
+  Phys. Conf. Ser. 706~(2) (2016) 022004.
+\newblock \href {http://arxiv.org/abs/1512.05145} {\path{arXiv:1512.05145}},
+  \href {http://dx.doi.org/10.1088/1742-6596/706/2/022004}
+  {\path{doi:10.1088/1742-6596/706/2/022004}}.
+
+\bibitem{PhysRevLett.61.2635}
+A.~M. Ferrenberg, R.~H. Swendsen,
+  \href{https://link.aps.org/doi/10.1103/PhysRevLett.61.2635}{New monte carlo
+  technique for studying phase transitions}, Phys. Rev. Lett. 61 (1988)
+  2635--2638.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevLett.61.2635}
+  {\path{doi:10.1103/PhysRevLett.61.2635}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevLett.61.2635}
+
+\bibitem{PhysRevB.28.4059}
+J.~E. Hirsch, \href{https://link.aps.org/doi/10.1103/PhysRevB.28.4059}{Discrete
+  hubbard-stratonovich transformation for fermion lattice models}, Phys. Rev. B
+  28 (1983) 4059--4061.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevB.28.4059}
+  {\path{doi:10.1103/PhysRevB.28.4059}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevB.28.4059}
+
+\bibitem{PhysRevC.78.024001}
+D.~Lee, \href{https://link.aps.org/doi/10.1103/PhysRevC.78.024001}{Ground state
+  energy at unitarity}, Phys. Rev. C 78 (2008) 024001.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevC.78.024001}
+  {\path{doi:10.1103/PhysRevC.78.024001}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevC.78.024001}
+
+\bibitem{PhysRevB.48.589}
+G.~G. Batrouni, P.~de~Forcrand,
+  \href{https://link.aps.org/doi/10.1103/PhysRevB.48.589}{Fermion sign problem:
+  Decoupling transformation and simulation algorithm}, Phys. Rev. B 48 (1993)
+  589--592.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevB.48.589}
+  {\path{doi:10.1103/PhysRevB.48.589}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevB.48.589}
+
+\bibitem{PhysRevB.71.155115}
+C.~Wu, S.-C. Zhang,
+  \href{https://link.aps.org/doi/10.1103/PhysRevB.71.155115}{Sufficient
+  condition for absence of the sign problem in the fermionic quantum monte
+  carlo algorithm}, Phys. Rev. B 71 (2005) 155115.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevB.71.155115}
+  {\path{doi:10.1103/PhysRevB.71.155115}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevB.71.155115}
+
+\bibitem{doi:10.1146/annurev-conmatphys-033117-054307}
+Z.-X. Li, H.~Yao,
+  \href{https://doi.org/10.1146/annurev-conmatphys-033117-054307}{Sign-problem-free
+  fermionic quantum monte carlo: Developments and applications}, Annual Review
+  of Condensed Matter Physics 10~(1) (2019) 337--356.
+\newblock \href
+  {http://arxiv.org/abs/https://doi.org/10.1146/annurev-conmatphys-033117-054307}
+  {\path{arXiv:https://doi.org/10.1146/annurev-conmatphys-033117-054307}},
+  \href {http://dx.doi.org/10.1146/annurev-conmatphys-033117-054307}
+  {\path{doi:10.1146/annurev-conmatphys-033117-054307}}.
+\newline\urlprefix\url{https://doi.org/10.1146/annurev-conmatphys-033117-054307}
+
+\bibitem{PhysRevB.42.2282}
+G.~G. Batrouni, R.~T. Scalettar,
+  \href{https://link.aps.org/doi/10.1103/PhysRevB.42.2282}{Anomalous
+  decouplings and the fermion sign problem}, Phys. Rev. B 42 (1990) 2282--2289.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevB.42.2282}
+  {\path{doi:10.1103/PhysRevB.42.2282}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevB.42.2282}
+
+\bibitem{PhysRevB.56.15001}
+F.~F. Assaad, M.~Imada, D.~J. Scalapino,
+  \href{https://link.aps.org/doi/10.1103/PhysRevB.56.15001}{Charge and spin
+  structures of a ${d}_{{x}^{2}\ensuremath{-}{y}^{2}}$ superconductor in the
+  proximity of an antiferromagnetic mott insulator}, Phys. Rev. B 56 (1997)
+  15001--15014.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevB.56.15001}
+  {\path{doi:10.1103/PhysRevB.56.15001}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevB.56.15001}
+
+\bibitem{doi:10.1143/JPSJ.66.1872}
+Y.~Motome, M.~Imada, \href{https://doi.org/10.1143/JPSJ.66.1872}{A quantum
+  monte carlo method and its applications to multi-orbital hubbard models},
+  Journal of the Physical Society of Japan 66~(7) (1997) 1872--1875.
+\newblock \href {http://arxiv.org/abs/https://doi.org/10.1143/JPSJ.66.1872}
+  {\path{arXiv:https://doi.org/10.1143/JPSJ.66.1872}}, \href
+  {http://dx.doi.org/10.1143/JPSJ.66.1872} {\path{doi:10.1143/JPSJ.66.1872}}.
+\newline\urlprefix\url{https://doi.org/10.1143/JPSJ.66.1872}
+
+\bibitem{PhysRevLett.120.107201}
+T.~Sato, F.~F. Assaad, T.~Grover,
+  \href{https://link.aps.org/doi/10.1103/PhysRevLett.120.107201}{Quantum monte
+  carlo simulation of frustrated kondo lattice models}, Phys. Rev. Lett. 120
+  (2018) 107201.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevLett.120.107201}
+  {\path{doi:10.1103/PhysRevLett.120.107201}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevLett.120.107201}
+
+\bibitem{PhysRevB.63.155114}
+S.~Capponi, F.~F. Assaad,
+  \href{https://link.aps.org/doi/10.1103/PhysRevB.63.155114}{Spin and charge
+  dynamics of the ferromagnetic and antiferromagnetic two-dimensional
+  half-filled kondo lattice model}, Phys. Rev. B 63 (2001) 155114.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevB.63.155114}
+  {\path{doi:10.1103/PhysRevB.63.155114}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevB.63.155114}
+
+\bibitem{PhysRevLett.83.796}
+F.~F. Assaad,
+  \href{https://link.aps.org/doi/10.1103/PhysRevLett.83.796}{Quantum monte
+  carlo simulations of the half-filled two-dimensional kondo lattice model},
+  Phys. Rev. Lett. 83 (1999) 796--799.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevLett.83.796}
+  {\path{doi:10.1103/PhysRevLett.83.796}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevLett.83.796}
+
+\bibitem{PhysRevLett.86.2050}
+F.~Wang, D.~P. Landau,
+  \href{https://link.aps.org/doi/10.1103/PhysRevLett.86.2050}{Efficient,
+  multiple-range random walk algorithm to calculate the density of states},
+  Phys. Rev. Lett. 86 (2001) 2050--2053.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevLett.86.2050}
+  {\path{doi:10.1103/PhysRevLett.86.2050}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevLett.86.2050}
+
+\bibitem{PhysRevD.85.056010}
+A.~Bazavov, B.~A. Berg, D.~Du, Y.~Meurice,
+  \href{https://link.aps.org/doi/10.1103/PhysRevD.85.056010}{Density of states
+  and fisher's zeros in compact $u(1)$ pure gauge theory}, Phys. Rev. D 85
+  (2012) 056010.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.85.056010}
+  {\path{doi:10.1103/PhysRevD.85.056010}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.85.056010}
+
+\bibitem{PhysRevLett.109.111601}
+K.~Langfeld, B.~Lucini, A.~Rago,
+  \href{https://link.aps.org/doi/10.1103/PhysRevLett.109.111601}{Density of
+  states in gauge theories}, Phys. Rev. Lett. 109 (2012) 111601.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevLett.109.111601}
+  {\path{doi:10.1103/PhysRevLett.109.111601}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevLett.109.111601}
+
+\bibitem{Fodor:2007vv}
+Z.~Fodor, S.~D. Katz, C.~Schmidt, {The Density of states method at non-zero
+  chemical potential}, JHEP 03 (2007) 121.
+\newblock \href {http://arxiv.org/abs/hep-lat/0701022}
+  {\path{arXiv:hep-lat/0701022}}, \href
+  {http://dx.doi.org/10.1088/1126-6708/2007/03/121}
+  {\path{doi:10.1088/1126-6708/2007/03/121}}.
+
+\bibitem{PhysRevD.90.094502}
+K.~Langfeld, B.~Lucini,
+  \href{https://link.aps.org/doi/10.1103/PhysRevD.90.094502}{Density of states
+  approach to dense quantum systems}, Phys. Rev. D 90 (2014) 094502.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.90.094502}
+  {\path{doi:10.1103/PhysRevD.90.094502}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.90.094502}
+
+\bibitem{1742-6596-631-1-012063}
+K.~Langfeld, B.~Lucini, A.~Rago, R.~Pellegrini, L.~Bongiovanni,
+  \href{http://stacks.iop.org/1742-6596/631/i=1/a=012063}{The density of states
+  approach for the simulation of finite density quantum field theories},
+  Journal of Physics: Conference Series 631~(1) (2015) 012063.
+\newline\urlprefix\url{http://stacks.iop.org/1742-6596/631/i=1/a=012063}
+
+\bibitem{PhysRevD.88.071502}
+K.~Langfeld, J.~M. Pawlowski,
+  \href{https://link.aps.org/doi/10.1103/PhysRevD.88.071502}{Two-color qcd with
+  heavy quarks at finite densities}, Phys. Rev. D 88 (2013) 071502.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.88.071502}
+  {\path{doi:10.1103/PhysRevD.88.071502}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.88.071502}
+
+\bibitem{PhysRevLett.61.2054}
+A.~Gocksch,
+  \href{https://link.aps.org/doi/10.1103/PhysRevLett.61.2054}{Simulating
+  lattice qcd at finite density}, Phys. Rev. Lett. 61 (1988) 2054--2057.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevLett.61.2054}
+  {\path{doi:10.1103/PhysRevLett.61.2054}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevLett.61.2054}
+
+\bibitem{Schmidt:2006us}
+C.~Schmidt, {Lattice QCD at finite density}, PoS LAT2006 (2006) 021.
+\newblock \href {http://arxiv.org/abs/hep-lat/0610116}
+  {\path{arXiv:hep-lat/0610116}}, \href {http://dx.doi.org/10.22323/1.032.0021}
+  {\path{doi:10.22323/1.032.0021}}.
+
+\bibitem{PhysRevD.77.014508}
+S.~Ejiri, \href{https://link.aps.org/doi/10.1103/PhysRevD.77.014508}{Existence
+  of the critical point in finite density lattice qcd}, Phys. Rev. D 77 (2008)
+  014508.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.77.014508}
+  {\path{doi:10.1103/PhysRevD.77.014508}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.77.014508}
+
+\bibitem{PhysRevD.78.074507}
+S.~Ejiri, \href{https://link.aps.org/doi/10.1103/PhysRevD.78.074507}{Canonical
+  partition function and finite density phase transition in lattice qcd}, Phys.
+  Rev. D 78 (2008) 074507.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.78.074507}
+  {\path{doi:10.1103/PhysRevD.78.074507}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.78.074507}
+
+\bibitem{10.1093/ptep/pts005}
+S.~Ejiri, K.~Kanaya, T.~Umeda, for~the WHOT-QCD~Collaboration,
+  \href{https://doi.org/10.1093/ptep/pts005}{{Ab initio study of the
+  thermodynamics of quantum chromodynamics on the lattice at zero and finite
+  densities}}, Progress of Theoretical and Experimental Physics 2012~(1).
+\newblock \href
+  {http://arxiv.org/abs/http://oup.prod.sis.lan/ptep/article-pdf/2012/1/01A104/11580842/pts005.pdf}
+  {\path{arXiv:http://oup.prod.sis.lan/ptep/article-pdf/2012/1/01A104/11580842/pts005.pdf}},
+  \href {http://dx.doi.org/10.1093/ptep/pts005}
+  {\path{doi:10.1093/ptep/pts005}}.
+\newline\urlprefix\url{https://doi.org/10.1093/ptep/pts005}
+
+\bibitem{GATTRINGER2015545}
+C.~Gattringer, P.~Torek,
+  \href{http://www.sciencedirect.com/science/article/pii/S0370269315004396}{Density
+  of states method for the z3 spin model}, Physics Letters B 747 (2015) 545 --
+  550.
+\newblock \href
+  {http://dx.doi.org/https://doi.org/10.1016/j.physletb.2015.06.017}
+  {\path{doi:https://doi.org/10.1016/j.physletb.2015.06.017}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0370269315004396}
+
+\bibitem{GIULIANI2016627}
+M.~Giuliani, C.~Gattringer, P.~Torek,
+  \href{http://www.sciencedirect.com/science/article/pii/S0550321316303078}{Developing
+  and testing the density of states ffa method in the su(3) spin model},
+  Nuclear Physics B 913 (2016) 627 -- 642.
+\newblock \href
+  {http://dx.doi.org/https://doi.org/10.1016/j.nuclphysb.2016.10.005}
+  {\path{doi:https://doi.org/10.1016/j.nuclphysb.2016.10.005}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0550321316303078}
+
+\bibitem{robbins1951}
+H.~Robbins, S.~Monro, \href{https://doi.org/10.1214/aoms/1177729586}{A
+  stochastic approximation method}, Ann. Math. Statist. 22~(3) (1951) 400--407.
+\newblock \href {http://dx.doi.org/10.1214/aoms/1177729586}
+  {\path{doi:10.1214/aoms/1177729586}}.
+\newline\urlprefix\url{https://doi.org/10.1214/aoms/1177729586}
+
+\bibitem{GIULIANI2017166}
+M.~Giuliani, C.~Gattringer,
+  \href{http://www.sciencedirect.com/science/article/pii/S0370269317306354}{Density
+  of states ffa analysis of su(3) lattice gauge theory at a finite density of
+  color sources}, Physics Letters B 773 (2017) 166 -- 171.
+\newblock \href
+  {http://dx.doi.org/https://doi.org/10.1016/j.physletb.2017.08.014}
+  {\path{doi:https://doi.org/10.1016/j.physletb.2017.08.014}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0370269317306354}
+
+\bibitem{ROSSI1984105}
+P.~Rossi, U.~Wolff,
+  \href{http://www.sciencedirect.com/science/article/pii/0550321384905893}{Lattice
+  qcd with fermions at strong coupling: A dimer system}, Nuclear Physics B
+  248~(1) (1984) 105 -- 122.
+\newblock \href
+  {http://dx.doi.org/https://doi.org/10.1016/0550-3213(84)90589-3}
+  {\path{doi:https://doi.org/10.1016/0550-3213(84)90589-3}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/0550321384905893}
+
+\bibitem{PhysRevB.61.10725}
+F.~H\'ebert, G.~G. Batrouni, H.~Mabilat,
+  \href{https://link.aps.org/doi/10.1103/PhysRevB.61.10725}{Exact duality and
+  dual monte carlo simulation for the bosonic hubbard model}, Phys. Rev. B 61
+  (2000) 10725--10737.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevB.61.10725}
+  {\path{doi:10.1103/PhysRevB.61.10725}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevB.61.10725}
+
+\bibitem{PhysRevD.75.065012}
+M.~G. Endres, \href{https://link.aps.org/doi/10.1103/PhysRevD.75.065012}{Method
+  for simulating $o(n)$ lattice models at finite density}, Phys. Rev. D 75
+  (2007) 065012.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.75.065012}
+  {\path{doi:10.1103/PhysRevD.75.065012}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.75.065012}
+
+\bibitem{PhysRevLett.87.160601}
+N.~Prokof'ev, B.~Svistunov,
+  \href{https://link.aps.org/doi/10.1103/PhysRevLett.87.160601}{Worm algorithms
+  for classical statistical models}, Phys. Rev. Lett. 87 (2001) 160601.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevLett.87.160601}
+  {\path{doi:10.1103/PhysRevLett.87.160601}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevLett.87.160601}
+
+\bibitem{PhysRevE.66.046701}
+O.~F. Sylju\aa{}sen, A.~W. Sandvik,
+  \href{https://link.aps.org/doi/10.1103/PhysRevE.66.046701}{Quantum monte
+  carlo with directed loops}, Phys. Rev. E 66 (2002) 046701.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevE.66.046701}
+  {\path{doi:10.1103/PhysRevE.66.046701}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevE.66.046701}
+
+\bibitem{PhysRevD.81.125007}
+D.~Banerjee, S.~Chandrasekharan,
+  \href{https://link.aps.org/doi/10.1103/PhysRevD.81.125007}{Finite size
+  effects in the presence of a chemical potential: A study in the classical
+  nonlinear $o(2)$ sigma model}, Phys. Rev. D 81 (2010) 125007.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.81.125007}
+  {\path{doi:10.1103/PhysRevD.81.125007}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.81.125007}
+
+\bibitem{PhysRevLett.106.222001}
+Y.~D. Mercado, H.~G. Evertz, C.~Gattringer,
+  \href{https://link.aps.org/doi/10.1103/PhysRevLett.106.222001}{Qcd phase
+  diagram according to the center group}, Phys. Rev. Lett. 106 (2011) 222001.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevLett.106.222001}
+  {\path{doi:10.1103/PhysRevLett.106.222001}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevLett.106.222001}
+
+\bibitem{GATTRINGER2011242}
+C.~Gattringer,
+  \href{http://www.sciencedirect.com/science/article/pii/S0550321311002549}{Flux
+  representation of an effective polyakov loop model for qcd thermodynamics},
+  Nuclear Physics B 850~(2) (2011) 242 -- 252.
+\newblock \href
+  {http://dx.doi.org/https://doi.org/10.1016/j.nuclphysb.2011.04.018}
+  {\path{doi:https://doi.org/10.1016/j.nuclphysb.2011.04.018}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0550321311002549}
+
+\bibitem{Fromm:2011qi}
+M.~Fromm, J.~Langelage, S.~Lottini, O.~Philipsen, {The QCD deconfinement
+  transition for heavy quarks and all baryon chemical potentials}, JHEP 01
+  (2012) 042.
+\newblock \href {http://arxiv.org/abs/1111.4953} {\path{arXiv:1111.4953}},
+  \href {http://dx.doi.org/10.1007/JHEP01(2012)042}
+  {\path{doi:10.1007/JHEP01(2012)042}}.
+
+\bibitem{MERCADO20121920}
+Y.~D. Mercado, H.~G. Evertz, C.~Gattringer,
+  \href{http://www.sciencedirect.com/science/article/pii/S0010465512001531}{Worm
+  algorithms for the 3-state potts model with magnetic field and chemical
+  potential}, Computer Physics Communications 183~(9) (2012) 1920 -- 1927.
+\newblock \href {http://dx.doi.org/https://doi.org/10.1016/j.cpc.2012.04.014}
+  {\path{doi:https://doi.org/10.1016/j.cpc.2012.04.014}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0010465512001531}
+
+\bibitem{MERCADO2012737}
+Y.~D. Mercado, C.~Gattringer,
+  \href{http://www.sciencedirect.com/science/article/pii/S0550321312002581}{Monte
+  carlo simulation of the su(3) spin model with chemical potential in a flux
+  representation}, Nuclear Physics B 862~(3) (2012) 737 -- 750.
+\newblock \href
+  {http://dx.doi.org/https://doi.org/10.1016/j.nuclphysb.2012.05.009}
+  {\path{doi:https://doi.org/10.1016/j.nuclphysb.2012.05.009}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0550321312002581}
+
+\bibitem{Gattringer:2012df}
+C.~Gattringer, T.~Kloiber, {Lattice study of the Silver Blaze phenomenon for a
+  charged scalar $\phi^4$ field}, Nucl. Phys. B869 (2013) 56--73.
+\newblock \href {http://arxiv.org/abs/1206.2954} {\path{arXiv:1206.2954}},
+  \href {http://dx.doi.org/10.1016/j.nuclphysb.2012.12.005}
+  {\path{doi:10.1016/j.nuclphysb.2012.12.005}}.
+
+\bibitem{Gattringer:2012ap}
+C.~Gattringer, T.~Kloiber, {Spectroscopy in finite density lattice field
+  theory: An exploratory study in the relativistic Bose gas}, Phys. Lett. B720
+  (2013) 210--214.
+\newblock \href {http://arxiv.org/abs/1212.3770} {\path{arXiv:1212.3770}},
+  \href {http://dx.doi.org/10.1016/j.physletb.2013.01.068}
+  {\path{doi:10.1016/j.physletb.2013.01.068}}.
+
+\bibitem{PhysRevD.92.114508}
+C.~Gattringer, T.~Kloiber, M.~M\"uller-Preussker,
+  \href{https://link.aps.org/doi/10.1103/PhysRevD.92.114508}{Dual simulation of
+  the two-dimensional lattice u(1) gauge-higgs model with a topological term},
+  Phys. Rev. D 92 (2015) 114508.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.92.114508}
+  {\path{doi:10.1103/PhysRevD.92.114508}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.92.114508}
+
+\bibitem{Gattringer:2018dlw}
+C.~Gattringer, D.~G{\"o}schl, T.~Sulejmanpasic, {Dual simulation of the 2d U(1)
+  gauge Higgs model at topological angle $\theta = \pi\,$: Critical endpoint
+  behavior}, Nucl. Phys. B935 (2018) 344--364.
+\newblock \href {http://arxiv.org/abs/1807.07793} {\path{arXiv:1807.07793}},
+  \href {http://dx.doi.org/10.1016/j.nuclphysb.2018.08.017}
+  {\path{doi:10.1016/j.nuclphysb.2018.08.017}}.
+
+\bibitem{Sulejmanpasic:2019ytl}
+T.~Sulejmanpasic, C.~Gattringer, {Abelian gauge theories on the lattice:
+  $\theta$-terms and compact gauge theory with(out) monopoles}, Nucl. Phys.
+  B943 (2019) 114616.
+\newblock \href {http://arxiv.org/abs/1901.02637} {\path{arXiv:1901.02637}},
+  \href {http://dx.doi.org/10.1016/j.nuclphysb.2019.114616}
+  {\path{doi:10.1016/j.nuclphysb.2019.114616}}.
+
+\bibitem{Vairinhos:2014uxa}
+H.~Vairinhos, P.~de~Forcrand, {Lattice gauge theory without link variables},
+  JHEP 12 (2014) 038.
+\newblock \href {http://arxiv.org/abs/1409.8442} {\path{arXiv:1409.8442}},
+  \href {http://dx.doi.org/10.1007/JHEP12(2014)038}
+  {\path{doi:10.1007/JHEP12(2014)038}}.
+
+\bibitem{Vairinhos:2015ewa}
+H.~Vairinhos, P.~de~Forcrand, {Integrating out lattice gauge fields}, PoS
+  CPOD2014 (2015) 061.
+\newblock \href {http://arxiv.org/abs/1506.07007} {\path{arXiv:1506.07007}},
+  \href {http://dx.doi.org/10.22323/1.217.0061}
+  {\path{doi:10.22323/1.217.0061}}.
+
+\bibitem{WOLFF2009491}
+U.~Wolff,
+  \href{http://www.sciencedirect.com/science/article/pii/S0550321308005609}{Simulating
+  the all-order strong coupling expansion i: Ising model demo}, Nuclear Physics
+  B 810~(3) (2009) 491 -- 502.
+\newblock \href
+  {http://dx.doi.org/https://doi.org/10.1016/j.nuclphysb.2008.09.033}
+  {\path{doi:https://doi.org/10.1016/j.nuclphysb.2008.09.033}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0550321308005609}
+
+\bibitem{WOLFF2009549}
+U.~Wolff,
+  \href{http://www.sciencedirect.com/science/article/pii/S055032130900042X}{Simulating
+  the all-order hopping expansion ii: Wilson fermions}, Nuclear Physics B
+  814~(3) (2009) 549 -- 572.
+\newblock \href
+  {http://dx.doi.org/https://doi.org/10.1016/j.nuclphysb.2009.01.018}
+  {\path{doi:https://doi.org/10.1016/j.nuclphysb.2009.01.018}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S055032130900042X}
+
+\bibitem{WOLFF2010254}
+U.~Wolff,
+  \href{http://www.sciencedirect.com/science/article/pii/S0550321309004726}{Simulating
+  the all-order strong coupling expansion iii: O(n) sigma/loop models}, Nuclear
+  Physics B 824~(1) (2010) 254 -- 272.
+\newblock \href
+  {http://dx.doi.org/https://doi.org/10.1016/j.nuclphysb.2009.09.006}
+  {\path{doi:https://doi.org/10.1016/j.nuclphysb.2009.09.006}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0550321309004726}
+
+\bibitem{WOLFF2010520}
+U.~Wolff,
+  \href{http://www.sciencedirect.com/science/article/pii/S0550321310000799}{Simulating
+  the all-order strong coupling expansion iv: Cp(n-1) as a loop model}, Nuclear
+  Physics B 832~(3) (2010) 520 -- 537.
+\newblock \href
+  {http://dx.doi.org/https://doi.org/10.1016/j.nuclphysb.2010.02.005}
+  {\path{doi:https://doi.org/10.1016/j.nuclphysb.2010.02.005}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0550321310000799}
+
+\bibitem{PhysRevLett.104.112005}
+P.~de~Forcrand, M.~Fromm,
+  \href{https://link.aps.org/doi/10.1103/PhysRevLett.104.112005}{Nuclear
+  physics from lattice qcd at strong coupling}, Phys. Rev. Lett. 104 (2010)
+  112005.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevLett.104.112005}
+  {\path{doi:10.1103/PhysRevLett.104.112005}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevLett.104.112005}
+
+\bibitem{Unger:2011it}
+W.~Unger, P.~de~Forcrand, {Continuous Time Monte Carlo for Lattice QCD in the
+  Strong Coupling Limit}, J. Phys. G38 (2011) 124190.
+\newblock \href {http://arxiv.org/abs/1107.1553} {\path{arXiv:1107.1553}},
+  \href {http://dx.doi.org/10.1088/0954-3899/38/12/124190}
+  {\path{doi:10.1088/0954-3899/38/12/124190}}.
+
+\bibitem{PhysRevLett.83.3116}
+S.~Chandrasekharan, U.-J. Wiese,
+  \href{https://link.aps.org/doi/10.1103/PhysRevLett.83.3116}{Meron-cluster
+  solution of fermion sign problems}, Phys. Rev. Lett. 83 (1999) 3116--3119.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevLett.83.3116}
+  {\path{doi:10.1103/PhysRevLett.83.3116}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevLett.83.3116}
+
+\bibitem{PhysRevD.82.025007}
+S.~Chandrasekharan,
+  \href{https://link.aps.org/doi/10.1103/PhysRevD.82.025007}{Fermion bag
+  approach to lattice field theories}, Phys. Rev. D 82 (2010) 025007.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.82.025007}
+  {\path{doi:10.1103/PhysRevD.82.025007}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.82.025007}
+
+\bibitem{Chandrasekharan:2013rpa}
+S.~Chandrasekharan, {Fermion Bag Approach to Fermion Sign Problems}, Eur. Phys.
+  J. A49 (2013) 90.
+\newblock \href {http://arxiv.org/abs/1304.4900} {\path{arXiv:1304.4900}},
+  \href {http://dx.doi.org/10.1140/epja/i2013-13090-y}
+  {\path{doi:10.1140/epja/i2013-13090-y}}.
+
+\bibitem{PhysRevD.96.114502}
+E.~Huffman, S.~Chandrasekharan,
+  \href{https://link.aps.org/doi/10.1103/PhysRevD.96.114502}{Fermion bag
+  approach to hamiltonian lattice field theories in continuous time}, Phys.
+  Rev. D 96 (2017) 114502.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.96.114502}
+  {\path{doi:10.1103/PhysRevD.96.114502}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.96.114502}
+
+\bibitem{Chandrasekharan2011}
+S.~Chandrasekharan, A.~Li,
+  \href{https://doi.org/10.1007/JHEP01(2011)018}{Fermion bag approach to the
+  sign problem in strongly coupled lattice qed with wilson fermions}, Journal
+  of High Energy Physics 2011~(1) (2011) 18.
+\newblock \href {http://dx.doi.org/10.1007/JHEP01(2011)018}
+  {\path{doi:10.1007/JHEP01(2011)018}}.
+\newline\urlprefix\url{https://doi.org/10.1007/JHEP01(2011)018}
+
+\bibitem{PhysRevLett.108.140404}
+S.~Chandrasekharan, A.~Li,
+  \href{https://link.aps.org/doi/10.1103/PhysRevLett.108.140404}{Fermion bags,
+  duality, and the three dimensional massless lattice thirring model}, Phys.
+  Rev. Lett. 108 (2012) 140404.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevLett.108.140404}
+  {\path{doi:10.1103/PhysRevLett.108.140404}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevLett.108.140404}
+
+\bibitem{PhysRevD.86.021701}
+S.~Chandrasekharan,
+  \href{https://link.aps.org/doi/10.1103/PhysRevD.86.021701}{Solutions to sign
+  problems in lattice yukawa models}, Phys. Rev. D 86 (2012) 021701.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.86.021701}
+  {\path{doi:10.1103/PhysRevD.86.021701}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.86.021701}
+
+\bibitem{PhysRevB.89.111101}
+E.~F. Huffman, S.~Chandrasekharan,
+  \href{https://link.aps.org/doi/10.1103/PhysRevB.89.111101}{Solution to sign
+  problems in half-filled spin-polarized electronic systems}, Phys. Rev. B 89
+  (2014) 111101.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevB.89.111101}
+  {\path{doi:10.1103/PhysRevB.89.111101}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevB.89.111101}
+
+\bibitem{PhysRevB.26.5033}
+J.~E. Hirsch, R.~L. Sugar, D.~J. Scalapino, R.~Blankenbecler,
+  \href{https://link.aps.org/doi/10.1103/PhysRevB.26.5033}{Monte carlo
+  simulations of one-dimensional fermion systems}, Phys. Rev. B 26 (1982)
+  5033--5055.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevB.26.5033}
+  {\path{doi:10.1103/PhysRevB.26.5033}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevB.26.5033}
+
+\bibitem{PhysRevA.85.063624}
+M.~G. Endres,
+  \href{https://link.aps.org/doi/10.1103/PhysRevA.85.063624}{Lattice theory for
+  nonrelativistic fermions in one spatial dimension}, Phys. Rev. A 85 (2012)
+  063624.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevA.85.063624}
+  {\path{doi:10.1103/PhysRevA.85.063624}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevA.85.063624}
+
+\bibitem{PhysRevLett.109.250403}
+M.~G. Endres,
+  \href{https://link.aps.org/doi/10.1103/PhysRevLett.109.250403}{Transdimensional
+  equivalence of universal constants for fermi gases at unitarity}, Phys. Rev.
+  Lett. 109 (2012) 250403.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevLett.109.250403}
+  {\path{doi:10.1103/PhysRevLett.109.250403}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevLett.109.250403}
+
+\bibitem{PhysRevA.87.063617}
+M.~G. Endres,
+  \href{https://link.aps.org/doi/10.1103/PhysRevA.87.063617}{Numerical study of
+  unitary fermions in one spatial dimension}, Phys. Rev. A 87 (2013) 063617.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevA.87.063617}
+  {\path{doi:10.1103/PhysRevA.87.063617}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevA.87.063617}
+
+\bibitem{PhysRevD.97.074506}
+C.~Gattringer,
+  \href{https://link.aps.org/doi/10.1103/PhysRevD.97.074506}{Baryon bags in
+  strong coupling qcd}, Phys. Rev. D 97 (2018) 074506.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.97.074506}
+  {\path{doi:10.1103/PhysRevD.97.074506}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.97.074506}
+
+\bibitem{PhysRevD.80.071503}
+U.~Wenger, \href{https://link.aps.org/doi/10.1103/PhysRevD.80.071503}{Efficient
+  simulation of relativistic fermions via vertex models}, Phys. Rev. D 80
+  (2009) 071503.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.80.071503}
+  {\path{doi:10.1103/PhysRevD.80.071503}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.80.071503}
+
+\bibitem{PhysRevD.97.054501}
+V.~Ayyar, S.~Chandrasekharan, J.~Rantaharju,
+  \href{https://link.aps.org/doi/10.1103/PhysRevD.97.054501}{Benchmark results
+  in the 2d lattice thirring model with a chemical potential}, Phys. Rev. D 97
+  (2018) 054501.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.97.054501}
+  {\path{doi:10.1103/PhysRevD.97.054501}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.97.054501}
+
+\bibitem{Drut:2012md}
+J.~E. Drut, A.~N. Nicholson, {Lattice methods for strongly interacting
+  many-body systems}, J. Phys. G40 (2013) 043101.
+\newblock \href {http://arxiv.org/abs/1208.6556} {\path{arXiv:1208.6556}},
+  \href {http://dx.doi.org/10.1088/0954-3899/40/4/043101}
+  {\path{doi:10.1088/0954-3899/40/4/043101}}.
+
+\bibitem{PhysRevB.91.241117}
+Z.-X. Li, Y.-F. Jiang, H.~Yao,
+  \href{https://link.aps.org/doi/10.1103/PhysRevB.91.241117}{Solving the
+  fermion sign problem in quantum monte carlo simulations by majorana
+  representation}, Phys. Rev. B 91 (2015) 241117.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevB.91.241117}
+  {\path{doi:10.1103/PhysRevB.91.241117}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevB.91.241117}
+
+\bibitem{PhysRevLett.116.250601}
+Z.~C. Wei, C.~Wu, Y.~Li, S.~Zhang, T.~Xiang,
+  \href{https://link.aps.org/doi/10.1103/PhysRevLett.116.250601}{Majorana
+  positivity and the fermion sign problem of quantum monte carlo simulations},
+  Phys. Rev. Lett. 116 (2016) 250601.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevLett.116.250601}
+  {\path{doi:10.1103/PhysRevLett.116.250601}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevLett.116.250601}
+
+\bibitem{PhysRevLett.117.267002}
+Z.-X. Li, Y.-F. Jiang, H.~Yao,
+  \href{https://link.aps.org/doi/10.1103/PhysRevLett.117.267002}{Majorana-time-reversal
+  symmetries: A fundamental principle for sign-problem-free quantum monte carlo
+  simulations}, Phys. Rev. Lett. 117 (2016) 267002.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevLett.117.267002}
+  {\path{doi:10.1103/PhysRevLett.117.267002}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevLett.117.267002}
+
+\bibitem{Wei:2017wns}
+Z.-C. Wei, {Semigroup Approach to the Sign Problem in Quantum Monte Carlo
+  Simulations}\href {http://arxiv.org/abs/1712.09412}
+  {\path{arXiv:1712.09412}}.
+
+\bibitem{Li_2015}
+Z.-X. Li, Y.-F. Jiang, H.~Yao, Fermion-sign-free majorana-quantum-monte-carlo
+  studies of quantum critical phenomena of dirac fermions in two dimensions,
+  New Journal of Physics 17~(8) (2015) 085003.
+\newblock \href {http://dx.doi.org/10.1088/1367-2630/17/8/085003}
+  {\path{doi:10.1088/1367-2630/17/8/085003}}.
+
+\bibitem{PhysRevB.92.235129}
+Y.-H. Liu, L.~Wang,
+  \href{https://link.aps.org/doi/10.1103/PhysRevB.92.235129}{Quantum monte
+  carlo study of mass-imbalanced hubbard models}, Phys. Rev. B 92 (2015)
+  235129.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevB.92.235129}
+  {\path{doi:10.1103/PhysRevB.92.235129}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevB.92.235129}
+
+\bibitem{s41467-017-00167-6}
+Z.-X. Li, Y.-F. Jiang, S.-K. Jian, H.~Yao,
+  \href{https://doi.org/10.1038/s41467-017-00167-6}{Fermion-induced quantum
+  critical points}, Nature Communications 8~(1) (2017) 314.
+\newblock \href {http://dx.doi.org/10.1038/s41467-017-00167-6}
+  {\path{doi:10.1038/s41467-017-00167-6}}.
+\newline\urlprefix\url{https://doi.org/10.1038/s41467-017-00167-6}
+
+\bibitem{PhysRevB.96.155112}
+S.-K. Jian, H.~Yao,
+  \href{https://link.aps.org/doi/10.1103/PhysRevB.96.155112}{Fermion-induced
+  quantum critical points in three-dimensional weyl semimetals}, Phys. Rev. B
+  96 (2017) 155112.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevB.96.155112}
+  {\path{doi:10.1103/PhysRevB.96.155112}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevB.96.155112}
+
+\bibitem{PhysRevB.96.035129}
+T.~Hayata, A.~Yamamoto,
+  \href{https://link.aps.org/doi/10.1103/PhysRevB.96.035129}{Quantum monte
+  carlo simulation of a two-dimensional majorana lattice model}, Phys. Rev. B
+  96 (2017) 035129.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevB.96.035129}
+  {\path{doi:10.1103/PhysRevB.96.035129}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevB.96.035129}
+
+\bibitem{PhysRevLett.115.250601}
+L.~Wang, Y.-H. Liu, M.~Iazzi, M.~Troyer, G.~Harcos,
+  \href{https://link.aps.org/doi/10.1103/PhysRevLett.115.250601}{Split
+  orthogonal group: A guiding principle for sign-problem-free fermionic
+  simulations}, Phys. Rev. Lett. 115 (2015) 250601.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevLett.115.250601}
+  {\path{doi:10.1103/PhysRevLett.115.250601}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevLett.115.250601}
+
+\bibitem{DEFORCRAND2002290}
+P.~deForcrand, O.~Philipsen,
+  \href{http://www.sciencedirect.com/science/article/pii/S0550321302006260}{The
+  qcd phase diagram for small densities from imaginary chemical potential},
+  Nuclear Physics B 642~(1) (2002) 290 -- 306.
+\newblock \href
+  {http://dx.doi.org/https://doi.org/10.1016/S0550-3213(02)00626-0}
+  {\path{doi:https://doi.org/10.1016/S0550-3213(02)00626-0}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0550321302006260}
+
+\bibitem{DEFORCRAND2003170}
+P.~de~Forcrand, O.~Philipsen,
+  \href{http://www.sciencedirect.com/science/article/pii/S0550321303007557}{The
+  qcd phase diagram for three degenerate flavors and small baryon density},
+  Nuclear Physics B 673~(1) (2003) 170 -- 186.
+\newblock \href
+  {http://dx.doi.org/https://doi.org/10.1016/j.nuclphysb.2003.09.005}
+  {\path{doi:https://doi.org/10.1016/j.nuclphysb.2003.09.005}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0550321303007557}
+
+\bibitem{PhysRevD.67.014505}
+M.~D'Elia, M.-P. Lombardo,
+  \href{https://link.aps.org/doi/10.1103/PhysRevD.67.014505}{Finite density qcd
+  via an imaginary chemical potential}, Phys. Rev. D 67 (2003) 014505.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.67.014505}
+  {\path{doi:10.1103/PhysRevD.67.014505}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.67.014505}
+
+\bibitem{PhysRevD.70.074509}
+M.~D'Elia, M.-P. Lombardo,
+  \href{https://link.aps.org/doi/10.1103/PhysRevD.70.074509}{Qcd thermodynamics
+  from an imaginary ${\ensuremath{\mu}}_{B}$: Results on the four flavor
+  lattice model}, Phys. Rev. D 70 (2004) 074509.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.70.074509}
+  {\path{doi:10.1103/PhysRevD.70.074509}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.70.074509}
+
+\bibitem{PhysRevB.41.811}
+E.~Dagotto, A.~Moreo, R.~L. Sugar, D.~Toussaint,
+  \href{https://link.aps.org/doi/10.1103/PhysRevB.41.811}{Binding of holes in
+  the hubbard model}, Phys. Rev. B 41 (1990) 811--814.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevB.41.811}
+  {\path{doi:10.1103/PhysRevB.41.811}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevB.41.811}
+
+\bibitem{PhysRevD.79.096001}
+Y.~Sakai, K.~Kashiwa, H.~Kouno, M.~Matsuzaki, M.~Yahiro,
+  \href{https://link.aps.org/doi/10.1103/PhysRevD.79.096001}{Determination of
+  qcd phase diagram from the imaginary chemical potential region}, Phys. Rev. D
+  79 (2009) 096001.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.79.096001}
+  {\path{doi:10.1103/PhysRevD.79.096001}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.79.096001}
+
+\bibitem{PhysRevLett.105.152001}
+P.~de~Forcrand, O.~Philipsen,
+  \href{https://link.aps.org/doi/10.1103/PhysRevLett.105.152001}{Constraining
+  the qcd phase diagram by tricritical lines at imaginary chemical potential},
+  Phys. Rev. Lett. 105 (2010) 152001.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevLett.105.152001}
+  {\path{doi:10.1103/PhysRevLett.105.152001}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevLett.105.152001}
+
+\bibitem{PhysRevD.84.091901}
+T.~Sasaki, Y.~Sakai, H.~Kouno, M.~Yahiro,
+  \href{https://link.aps.org/doi/10.1103/PhysRevD.84.091901}{Quark-mass
+  dependence of the three-flavor qcd phase diagram at zero and imaginary
+  chemical potential: Model prediction}, Phys. Rev. D 84 (2011) 091901.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.84.091901}
+  {\path{doi:10.1103/PhysRevD.84.091901}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.84.091901}
+
+\bibitem{MATSUMOTO2011367}
+T.~Matsumoto, K.~Kashiwa, H.~Kouno, K.~Oda, M.~Yahiro,
+  \href{http://www.sciencedirect.com/science/article/pii/S0370269310012104}{Investigation
+  of meson masses for real and imaginary chemical potential using the
+  three-flavor pnjl model}, Physics Letters B 694~(4) (2011) 367 -- 373.
+\newblock \href
+  {http://dx.doi.org/https://doi.org/10.1016/j.physletb.2010.09.070}
+  {\path{doi:https://doi.org/10.1016/j.physletb.2010.09.070}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0370269310012104}
+
+\bibitem{PhysRevD.85.094512}
+P.~Cea, L.~Cosmai, M.~D'Elia, A.~Papa, F.~Sanfilippo,
+  \href{https://link.aps.org/doi/10.1103/PhysRevD.85.094512}{Critical line of
+  two-flavor qcd at finite isospin or baryon densities from imaginary chemical
+  potentials}, Phys. Rev. D 85 (2012) 094512.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.85.094512}
+  {\path{doi:10.1103/PhysRevD.85.094512}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.85.094512}
+
+\bibitem{Gunther:2016vcp}
+J.~N. Guenther, R.~Bellwied, S.~Borsanyi, Z.~Fodor, S.~D. Katz, A.~Pasztor,
+  C.~Ratti, K.~K. Szab{\'{o}}, {The QCD equation of state at finite density
+  from analytical continuation}, Nucl. Phys. A967 (2017) 720--723.
+\newblock \href {http://arxiv.org/abs/1607.02493} {\path{arXiv:1607.02493}},
+  \href {http://dx.doi.org/10.1016/j.nuclphysa.2017.05.044}
+  {\path{doi:10.1016/j.nuclphysa.2017.05.044}}.
+
+\bibitem{Roscher:2013aqa}
+D.~Roscher, J.~Braun, J.-W. Chen, J.~E. Drut, {Fermi gases with imaginary mass
+  imbalance and the sign problem in Monte Carlo calculations}, J. Phys. G41
+  (2014) 055110.
+\newblock \href {http://arxiv.org/abs/1306.0798} {\path{arXiv:1306.0798}},
+  \href {http://dx.doi.org/10.1088/0954-3899/41/5/055110}
+  {\path{doi:10.1088/0954-3899/41/5/055110}}.
+
+\bibitem{PhysRevLett.110.130404}
+J.~Braun, J.-W. Chen, J.~Deng, J.~E. Drut, B.~Friman, C.-T. Ma, Y.-D. Tsai,
+  \href{https://link.aps.org/doi/10.1103/PhysRevLett.110.130404}{Imaginary
+  polarization as a way to surmount the sign problem in ab initio calculations
+  of spin-imbalanced fermi gases}, Phys. Rev. Lett. 110 (2013) 130404.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevLett.110.130404}
+  {\path{doi:10.1103/PhysRevLett.110.130404}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevLett.110.130404}
+
+\bibitem{PhysRevA.92.063609}
+A.~C. Loheac, J.~Braun, J.~E. Drut, D.~Roscher,
+  \href{https://link.aps.org/doi/10.1103/PhysRevA.92.063609}{Thermal equation
+  of state of polarized fermions in one dimension via complex chemical
+  potentials}, Phys. Rev. A 92 (2015) 063609.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevA.92.063609}
+  {\path{doi:10.1103/PhysRevA.92.063609}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevA.92.063609}
+
+\bibitem{PhysRevLett.114.050404}
+J.~Braun, J.~E. Drut, D.~Roscher,
+  \href{https://link.aps.org/doi/10.1103/PhysRevLett.114.050404}{Zero-temperature
+  equation of state of mass-imbalanced resonant fermi gases}, Phys. Rev. Lett.
+  114 (2015) 050404.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevLett.114.050404}
+  {\path{doi:10.1103/PhysRevLett.114.050404}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevLett.114.050404}
+
+\bibitem{PRD96094506}
+L.~Rammelm\"uller, W.~J. Porter, J.~E. Drut, J.~Braun,
+  \href{https://link.aps.org/doi/10.1103/PhysRevD.96.094506}{Surmounting the
+  sign problem in nonrelativistic calculations: A case study with
+  mass-imbalanced fermions}, Phys. Rev. D 96 (2017) 094506.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.96.094506}
+  {\path{doi:10.1103/PhysRevD.96.094506}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.96.094506}
+
+\bibitem{deForcrand:2007rq}
+P.~de~Forcrand, S.~Kim, O.~Philipsen, {A QCD chiral critical point at small
+  chemical potential: Is it there or not?}, PoS LATTICE2007 (2007) 178.
+\newblock \href {http://arxiv.org/abs/0711.0262} {\path{arXiv:0711.0262}}.
+
+\bibitem{Endrodi:2011gv}
+G.~Endrodi, Z.~Fodor, S.~D. Katz, K.~K. Szabo, {The QCD phase diagram at
+  nonzero quark density}, JHEP 04 (2011) 001.
+\newblock \href {http://arxiv.org/abs/1102.1356} {\path{arXiv:1102.1356}},
+  \href {http://dx.doi.org/10.1007/JHEP04(2011)001}
+  {\path{doi:10.1007/JHEP04(2011)001}}.
+
+\bibitem{Sharma:2017jwb}
+S.~Sharma, {The QCD Equation of state and critical end-point estimates at
+  $\mathcal O(\mu_B^6)$}, Nucl. Phys. A967 (2017) 728--731.
+\newblock \href {http://arxiv.org/abs/1704.05969} {\path{arXiv:1704.05969}},
+  \href {http://dx.doi.org/10.1016/j.nuclphysa.2017.05.008}
+  {\path{doi:10.1016/j.nuclphysa.2017.05.008}}.
+
+\bibitem{ROM1997382}
+N.~Rom, D.~Charutz, D.~Neuhauser,
+  \href{http://www.sciencedirect.com/science/article/pii/S0009261497003709}{Shifted-contour
+  auxiliary-field monte carlo: circumventing the sign difficulty for
+  electronic-structure calculations}, Chemical Physics Letters 270~(3) (1997)
+  382 -- 386.
+\newblock \href
+  {http://dx.doi.org/https://doi.org/10.1016/S0009-2614(97)00370-9}
+  {\path{doi:https://doi.org/10.1016/S0009-2614(97)00370-9}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0009261497003709}
+
+\bibitem{Witten:2010cx}
+E.~Witten, {Analytic Continuation Of Chern-Simons Theory}, AMS/IP Stud. Adv.
+  Math. 50 (2011) 347--446.
+\newblock \href {http://arxiv.org/abs/1001.2933} {\path{arXiv:1001.2933}}.
+
+\bibitem{Witten:2010zr}
+E.~Witten, {A New Look At The Path Integral Of Quantum Mechanics}\href
+  {http://arxiv.org/abs/1009.6032} {\path{arXiv:1009.6032}}.
+
+\bibitem{PhysRevD.86.074506}
+M.~Cristoforetti, F.~Di~Renzo, L.~Scorzato,
+  \href{https://link.aps.org/doi/10.1103/PhysRevD.86.074506}{New approach to
+  the sign problem in quantum field theories: High density qcd on a lefschetz
+  thimble}, Phys. Rev. D 86 (2012) 074506.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.86.074506}
+  {\path{doi:10.1103/PhysRevD.86.074506}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.86.074506}
+
+\bibitem{PhysRevD.88.051501}
+M.~Cristoforetti, F.~Di~Renzo, A.~Mukherjee, L.~Scorzato,
+  \href{https://link.aps.org/doi/10.1103/PhysRevD.88.051501}{Monte carlo
+  simulations on the lefschetz thimble: Taming the sign problem}, Phys. Rev. D
+  88 (2013) 051501.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.88.051501}
+  {\path{doi:10.1103/PhysRevD.88.051501}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.88.051501}
+
+\bibitem{PhysRevD.88.051502}
+A.~Mukherjee, M.~Cristoforetti, L.~Scorzato,
+  \href{https://link.aps.org/doi/10.1103/PhysRevD.88.051502}{Metropolis monte
+  carlo integration on the lefschetz thimble: Application to a one-plaquette
+  model}, Phys. Rev. D 88 (2013) 051502.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.88.051502}
+  {\path{doi:10.1103/PhysRevD.88.051502}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.88.051502}
+
+\bibitem{Fujii:2013sra}
+H.~Fujii, D.~Honda, M.~Kato, Y.~Kikukawa, S.~Komatsu, T.~Sano, {Hybrid Monte
+  Carlo on Lefschetz thimbles - A study of the residual sign problem}, JHEP 10
+  (2013) 147.
+\newblock \href {http://arxiv.org/abs/1309.4371} {\path{arXiv:1309.4371}},
+  \href {http://dx.doi.org/10.1007/JHEP10(2013)147}
+  {\path{doi:10.1007/JHEP10(2013)147}}.
+
+\bibitem{PhysRevD.89.114505}
+M.~Cristoforetti, F.~Di~Renzo, G.~Eruzzi, A.~Mukherjee, C.~Schmidt,
+  L.~Scorzato, C.~Torrero,
+  \href{https://link.aps.org/doi/10.1103/PhysRevD.89.114505}{An efficient
+  method to compute the residual phase on a lefschetz thimble}, Phys. Rev. D 89
+  (2014) 114505.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.89.114505}
+  {\path{doi:10.1103/PhysRevD.89.114505}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.89.114505}
+
+\bibitem{Kanazawa2015}
+T.~Kanazawa, Y.~Tanizaki,
+  \href{https://doi.org/10.1007/JHEP03(2015)044}{Structure of lefschetz
+  thimbles in simple fermionic systems}, Journal of High Energy Physics
+  2015~(3) (2015) 44.
+\newblock \href {http://dx.doi.org/10.1007/JHEP03(2015)044}
+  {\path{doi:10.1007/JHEP03(2015)044}}.
+\newline\urlprefix\url{https://doi.org/10.1007/JHEP03(2015)044}
+
+\bibitem{PhysRevD.91.101701}
+Y.~Tanizaki, H.~Nishimura, K.~Kashiwa,
+  \href{https://link.aps.org/doi/10.1103/PhysRevD.91.101701}{Evading the sign
+  problem in the mean-field approximation through lefschetz-thimble path
+  integral}, Phys. Rev. D 91 (2015) 101701.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.91.101701}
+  {\path{doi:10.1103/PhysRevD.91.101701}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.91.101701}
+
+\bibitem{Fukushima:2015qza}
+K.~Fukushima, Y.~Tanizaki, {Hamilton dynamics for Lefschetz-thimble integration
+  akin to the complex Langevin method}, PTEP 2015~(11) (2015) 111A01.
+\newblock \href {http://arxiv.org/abs/1507.07351} {\path{arXiv:1507.07351}},
+  \href {http://dx.doi.org/10.1093/ptep/ptv152}
+  {\path{doi:10.1093/ptep/ptv152}}.
+
+\bibitem{Hayata:2015lzj}
+T.~Hayata, Y.~Hidaka, Y.~Tanizaki, {Complex saddle points and the sign problem
+  in complex Langevin simulation}, Nucl. Phys. B911 (2016) 94--105.
+\newblock \href {http://arxiv.org/abs/1511.02437} {\path{arXiv:1511.02437}},
+  \href {http://dx.doi.org/10.1016/j.nuclphysb.2016.07.031}
+  {\path{doi:10.1016/j.nuclphysb.2016.07.031}}.
+
+\bibitem{Tanizaki:2016cou}
+Y.~Tanizaki, Y.~Hidaka, T.~Hayata, {Lefschetz-thimble approach to the Silver
+  Blaze problem of one-site fermion model}, PoS LATTICE2016 (2016) 030.
+\newblock \href {http://arxiv.org/abs/1610.00393} {\path{arXiv:1610.00393}},
+  \href {http://dx.doi.org/10.22323/1.256.0030}
+  {\path{doi:10.22323/1.256.0030}}.
+
+\bibitem{PhysRevD.95.014502}
+A.~Alexandru, G.~m.~c. Ba\ifmmode~\mbox{\c{s}}\else \c{s}\fi{}ar, P.~F.
+  Bedaque, G.~W. Ridgway, N.~C. Warrington,
+  \href{https://link.aps.org/doi/10.1103/PhysRevD.95.014502}{Monte carlo
+  calculations of the finite density thirring model}, Phys. Rev. D 95 (2017)
+  014502.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.95.014502}
+  {\path{doi:10.1103/PhysRevD.95.014502}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.95.014502}
+
+\bibitem{Nishimura:2017eiu}
+J.~Nishimura, S.~Shimasaki, {Unification of the complex Langevin method and the
+  Lefschetz thimble method}, EPJ Web Conf. 175 (2018) 07018.
+\newblock \href {http://arxiv.org/abs/1710.07027} {\path{arXiv:1710.07027}},
+  \href {http://dx.doi.org/10.1051/epjconf/201817507018}
+  {\path{doi:10.1051/epjconf/201817507018}}.
+
+\bibitem{Ulybyshev:2017hbs}
+M.~V. Ulybyshev, S.~N. Valgushev, {Path integral representation for the Hubbard
+  model with reduced number of Lefschetz thimbles}\href
+  {http://arxiv.org/abs/1712.02188} {\path{arXiv:1712.02188}}.
+
+\bibitem{Bluecher:2018sgj}
+S.~Bluecher, J.~M. Pawlowski, M.~Scherzer, M.~Schlosser, I.-O. Stamatescu,
+  S.~Syrkowski, F.~P.~G. Ziegler, {Reweighting Lefschetz Thimbles}, SciPost
+  Phys. 5~(5) (2018) 044.
+\newblock \href {http://arxiv.org/abs/1803.08418} {\path{arXiv:1803.08418}},
+  \href {http://dx.doi.org/10.21468/SciPostPhys.5.5.044}
+  {\path{doi:10.21468/SciPostPhys.5.5.044}}.
+
+\bibitem{PhysRevD.98.034506}
+A.~Alexandru, G.~m.~c. Ba\ifmmode~\mbox{\c{s}}\else \c{s}\fi{}ar, P.~F.
+  Bedaque, H.~Lamm, S.~Lawrence,
+  \href{https://link.aps.org/doi/10.1103/PhysRevD.98.034506}{Finite density
+  ${\mathrm{qed}}_{1+1}$ near lefschetz thimbles}, Phys. Rev. D 98 (2018)
+  034506.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.98.034506}
+  {\path{doi:10.1103/PhysRevD.98.034506}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.98.034506}
+
+\bibitem{PhysRevD.88.094501}
+G.~Aarts, \href{https://link.aps.org/doi/10.1103/PhysRevD.88.094501}{Lefschetz
+  thimbles and stochastic quantization: Complex actions in the complex plane},
+  Phys. Rev. D 88 (2013) 094501.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.88.094501}
+  {\path{doi:10.1103/PhysRevD.88.094501}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.88.094501}
+
+\bibitem{Alexandru:2015sua}
+A.~Alexandru, G.~Basar, P.~F. Bedaque, G.~W. Ridgway, N.~C. Warrington, {Sign
+  problem and Monte Carlo calculations beyond Lefschetz thimbles}, JHEP 05
+  (2016) 053.
+\newblock \href {http://arxiv.org/abs/1512.08764} {\path{arXiv:1512.08764}},
+  \href {http://dx.doi.org/10.1007/JHEP05(2016)053}
+  {\path{doi:10.1007/JHEP05(2016)053}}.
+
+\bibitem{PhysRevLett.117.081602}
+A.~Alexandru, G.~m.~c. Ba\ifmmode~\mbox{\c{s}}\else \c{s}\fi{}ar, P.~F.
+  Bedaque, S.~Vartak, N.~C. Warrington,
+  \href{https://link.aps.org/doi/10.1103/PhysRevLett.117.081602}{Monte carlo
+  study of real time dynamics on the lattice}, Phys. Rev. Lett. 117 (2016)
+  081602.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevLett.117.081602}
+  {\path{doi:10.1103/PhysRevLett.117.081602}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevLett.117.081602}
+
+\bibitem{PhysRevD.95.114501}
+A.~Alexandru, G.~m.~c. Ba\ifmmode~\mbox{\c{s}}\else \c{s}\fi{}ar, P.~F.
+  Bedaque, G.~Ridgway,
+  \href{https://link.aps.org/doi/10.1103/PhysRevD.95.114501}{Schwinger-keldysh
+  formalism on the lattice: A faster algorithm and its application to field
+  theory}, Phys. Rev. D 95 (2017) 114501.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.95.114501}
+  {\path{doi:10.1103/PhysRevD.95.114501}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.95.114501}
+
+\bibitem{PhysRevD.96.034513}
+A.~Alexandru, G.~m.~c. Ba\ifmmode~\mbox{\c{s}}\else \c{s}\fi{}ar, P.~F.
+  Bedaque, N.~C. Warrington,
+  \href{https://link.aps.org/doi/10.1103/PhysRevD.96.034513}{Tempered
+  transitions between thimbles}, Phys. Rev. D 96 (2017) 034513.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.96.034513}
+  {\path{doi:10.1103/PhysRevD.96.034513}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.96.034513}
+
+\bibitem{PhysRevD.93.094514}
+A.~Alexandru, G.~m.~c. Ba\ifmmode~\mbox{\c{s}}\else \c{s}\fi{}ar, P.~F.
+  Bedaque, G.~W. Ridgway, N.~C. Warrington,
+  \href{https://link.aps.org/doi/10.1103/PhysRevD.93.094514}{Fast estimator of
+  jacobians in the monte carlo integration on lefschetz thimbles}, Phys. Rev. D
+  93 (2016) 094514.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.93.094514}
+  {\path{doi:10.1103/PhysRevD.93.094514}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.93.094514}
+
+\bibitem{ParisiWu}
+G.~Parisi, Y.-s. Wu, {Perturbation Theory Without Gauge Fixing}, Sci. Sin. 24
+  (1981) 483.
+
+\bibitem{Klauder1983a}
+J.~R. Klauder, Stochastic quantization, in: H.~Mitter, C.~B. Lang (Eds.),
+  Recent Developments in High-Energy Physics, Springer Vienna, Vienna, 1983,
+  pp. 251--281.
+
+\bibitem{Klauder1983b}
+J.~R. Klauder, A langevin approach to fermion and quantum spin correlation
+  functions, Journal of Physics A: Mathematical and General 16~(10) (1983)
+  L317--L319.
+\newblock \href {http://dx.doi.org/10.1088/0305-4470/16/10/001}
+  {\path{doi:10.1088/0305-4470/16/10/001}}.
+
+\bibitem{Parisi1983}
+G.~Parisi,
+  \href{http://www.sciencedirect.com/science/article/pii/0370269383905257}{On
+  complex probabilities}, Physics Letters B 131~(4) (1983) 393 -- 395.
+\newblock \href
+  {http://dx.doi.org/https://doi.org/10.1016/0370-2693(83)90525-7}
+  {\path{doi:https://doi.org/10.1016/0370-2693(83)90525-7}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/0370269383905257}
+
+\bibitem{Klauder1984}
+J.~R. Klauder,
+  \href{https://link.aps.org/doi/10.1103/PhysRevA.29.2036}{Coherent-state
+  langevin equations for canonical quantum systems with applications to the
+  quantized hall effect}, Phys. Rev. A 29 (1984) 2036--2047.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevA.29.2036}
+  {\path{doi:10.1103/PhysRevA.29.2036}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevA.29.2036}
+
+\bibitem{PRC2001026303}
+C.~Adami, S.~E.~Koonin, Complex langevin equation and the many-fermion problem,
+  Physical Review C 6303 (2001) 026303.
+
+\bibitem{Ganesan_2001}
+V.~Ganesan, G.~H. Fredrickson, Field-theoretic polymer simulations, Europhysics
+  Letters (EPL) 55~(6) (2001) 814--820.
+\newblock \href {http://dx.doi.org/10.1209/epl/i2001-00353-8}
+  {\path{doi:10.1209/epl/i2001-00353-8}}.
+
+\bibitem{Fredrickson2002}
+G.~H. Fredrickson, V.~Ganesan, F.~Drolet,
+  \href{https://doi.org/10.1021/ma011515t}{Field-theoretic computer simulation
+  methods for polymers and complex fluids}, Macromolecules 35~(1) (2002)
+  16--39.
+\newblock \href {http://dx.doi.org/10.1021/ma011515t}
+  {\path{doi:10.1021/ma011515t}}.
+\newline\urlprefix\url{https://doi.org/10.1021/ma011515t}
+
+\bibitem{HOCHBERG200654}
+D.~Hochberg, M.-P. Zorzano, F.~Morán,
+  \href{http://www.sciencedirect.com/science/article/pii/S0009261406003472}{Complex
+  reaction noise in a molecular quasispecies model}, Chemical Physics Letters
+  423~(1) (2006) 54 -- 58.
+\newblock \href
+  {http://dx.doi.org/https://doi.org/10.1016/j.cplett.2006.03.023}
+  {\path{doi:https://doi.org/10.1016/j.cplett.2006.03.023}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0009261406003472}
+
+\bibitem{DELOUBRIERE2002135}
+O.~Deloubrière, L.~Frachebourg, H.~Hilhorst, K.~Kitahara,
+  \href{http://www.sciencedirect.com/science/article/pii/S0378437102005484}{Imaginary
+  noise and parity conservation in the reaction a+a⇌0}, Physica A:
+  Statistical Mechanics and its Applications 308~(1) (2002) 135 -- 147.
+\newblock \href
+  {http://dx.doi.org/https://doi.org/10.1016/S0378-4371(02)00548-4}
+  {\path{doi:https://doi.org/10.1016/S0378-4371(02)00548-4}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0378437102005484}
+
+\bibitem{PhysRevLett95202003}
+J.~Berges, I.-O. Stamatescu,
+  \href{https://link.aps.org/doi/10.1103/PhysRevLett.95.202003}{Simulating
+  nonequilibrium quantum fields with stochastic quantization techniques}, Phys.
+  Rev. Lett. 95 (2005) 202003.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevLett.95.202003}
+  {\path{doi:10.1103/PhysRevLett.95.202003}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevLett.95.202003}
+
+\bibitem{PhysRevD75045007}
+J.~Berges, S.~Bors\'anyi, D.~Sexty, I.-O. Stamatescu,
+  \href{https://link.aps.org/doi/10.1103/PhysRevD.75.045007}{Lattice
+  simulations of real-time quantum fields}, Phys. Rev. D 75 (2007) 045007.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.75.045007}
+  {\path{doi:10.1103/PhysRevD.75.045007}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.75.045007}
+
+\bibitem{JHEP200809018}
+G.~Aarts, I.-O. Stamatescu, {Stochastic quantization at finite chemical
+  potential}, JHEP 09 (2008) 018.
+\newblock \href {http://arxiv.org/abs/0807.1597} {\path{arXiv:0807.1597}},
+  \href {http://dx.doi.org/10.1088/1126-6708/2008/09/018}
+  {\path{doi:10.1088/1126-6708/2008/09/018}}.
+
+\bibitem{AartsPRL102131601}
+G.~{Aarts}, {Can Stochastic Quantization Evade the Sign Problem? The
+  Relativistic Bose Gas at Finite Chemical Potential}, Physical Review Letters
+  102~(13) (2009) 131601.
+\newblock \href {http://arxiv.org/abs/0810.2089} {\path{arXiv:0810.2089}},
+  \href {http://dx.doi.org/10.1103/PhysRevLett.102.131601}
+  {\path{doi:10.1103/PhysRevLett.102.131601}}.
+
+\bibitem{JHEP200905052}
+G.~Aarts, \href{http://stacks.iop.org/1126-6708/2009/i=05/a=052}{Complex
+  langevin dynamics at finite chemical potential: mean field analysis in the
+  relativistic bose gas}, Journal of High Energy Physics 2009~(05) (2009) 052.
+\newline\urlprefix\url{http://stacks.iop.org/1126-6708/2009/i=05/a=052}
+
+\bibitem{BERGES2008306}
+{J\"urgen Berges}, {D\'enes Sexty},
+  \href{http://www.sciencedirect.com/science/article/pii/S0550321308000503}{Real-time
+  gauge theory simulations from stochastic quantization with optimized
+  updating}, Nuclear Physics B 799~(3) (2008) 306 -- 329.
+\newblock \href
+  {http://dx.doi.org/https://doi.org/10.1016/j.nuclphysb.2008.01.018}
+  {\path{doi:https://doi.org/10.1016/j.nuclphysb.2008.01.018}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0550321308000503}
+
+\bibitem{AARTS2010154}
+G.~Aarts, F.~A. James, E.~Seiler, I.-O. Stamatescu,
+  \href{http://www.sciencedirect.com/science/article/pii/S0370269310003059}{Adaptive
+  stepsize and instabilities in complex langevin dynamics}, Physics Letters B
+  687~(2) (2010) 154 -- 159.
+\newblock \href
+  {http://dx.doi.org/https://doi.org/10.1016/j.physletb.2010.03.012}
+  {\path{doi:https://doi.org/10.1016/j.physletb.2010.03.012}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0370269310003059}
+
+\bibitem{JHEP20100820}
+G.~{Aarts}, F.~A. {James}, {On the convergence of complex Langevin dynamics:
+  the three-dimensional XY model at finite chemical potential}, Journal of High
+  Energy Physics 8 (2010) 20.
+\newblock \href {http://arxiv.org/abs/1005.3468} {\path{arXiv:1005.3468}},
+  \href {http://dx.doi.org/10.1007/JHEP08(2010)020}
+  {\path{doi:10.1007/JHEP08(2010)020}}.
+
+\bibitem{PhysRevLett.89.240201}
+D.~Weingarten,
+  \href{https://link.aps.org/doi/10.1103/PhysRevLett.89.240201}{Complex
+  probabilities on ${R}^{N}$ as real probabilities on ${C}^{N}$ and an
+  application to path integrals}, Phys. Rev. Lett. 89 (2002) 240201.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevLett.89.240201}
+  {\path{doi:10.1103/PhysRevLett.89.240201}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevLett.89.240201}
+
+\bibitem{Salcedo:1996sa}
+L.~L. Salcedo, {Representation of complex probabilities}, J. Math. Phys. 38
+  (1997) 1710--1722.
+\newblock \href {http://arxiv.org/abs/hep-lat/9607044}
+  {\path{arXiv:hep-lat/9607044}}, \href {http://dx.doi.org/10.1063/1.531906}
+  {\path{doi:10.1063/1.531906}}.
+
+\bibitem{Salcedo_2007}
+L.~L. Salcedo, The existence of positive representations for complex weights,
+  Journal of Physics A: Mathematical and Theoretical 40~(31) (2007) 9399--9412.
+\newblock \href {http://dx.doi.org/10.1088/1751-8113/40/31/016}
+  {\path{doi:10.1088/1751-8113/40/31/016}}.
+
+\bibitem{Wosiek:2015iwl}
+J.~Wosiek, {Beyond complex Langevin equations I: two simple examples}\href
+  {http://arxiv.org/abs/1511.09083} {\path{arXiv:1511.09083}}.
+
+\bibitem{Wosiek:2015bqg}
+J.~Wosiek, {Beyond complex Langevin equations: from simple examples to positive
+  representation of Feynman path integrals directly in the Minkowski time},
+  JHEP 04 (2016) 146.
+\newblock \href {http://arxiv.org/abs/1511.09114} {\path{arXiv:1511.09114}},
+  \href {http://dx.doi.org/10.1007/JHEP04(2016)146}
+  {\path{doi:10.1007/JHEP04(2016)146}}.
+
+\bibitem{PhysRevD.94.074503}
+L.~L. Salcedo, \href{https://link.aps.org/doi/10.1103/PhysRevD.94.074503}{Gibbs
+  sampling of complex-valued distributions}, Phys. Rev. D 94 (2016) 074503.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.94.074503}
+  {\path{doi:10.1103/PhysRevD.94.074503}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.94.074503}
+
+\bibitem{Seiler_2017}
+E.~Seiler, J.~Wosiek, Positive representations of a class of complex measures,
+  Journal of Physics A: Mathematical and Theoretical 50~(49) (2017) 495403.
+\newblock \href {http://dx.doi.org/10.1088/1751-8121/aa9310}
+  {\path{doi:10.1088/1751-8121/aa9310}}.
+
+\bibitem{Salcedo_2018}
+L.~L. Salcedo, Positive representations of complex distributions on groups,
+  Journal of Physics A: Mathematical and Theoretical 51~(50) (2018) 505401.
+\newblock \href {http://dx.doi.org/10.1088/1751-8121/aaea16}
+  {\path{doi:10.1088/1751-8121/aaea16}}.
+
+\bibitem{Wosiek:2018jht}
+J.~Wosiek, B.~Ruba, {Beyond Complex Langevin Equations: a Progress Report}, in:
+  {36th International Symposium on Lattice Field Theory (Lattice 2018) East
+  Lansing, MI, United States, July 22-28, 2018}, 2018.
+\newblock \href {http://arxiv.org/abs/1810.11519} {\path{arXiv:1810.11519}}.
+
+\bibitem{PhysicsReportsStochasticQuantization}
+P.~H. Damgaard, H.~H{\"u}ffel,
+  \href{http://www.sciencedirect.com/science/article/pii/037015738790144X}{Stochastic
+  quantization}, Physics Reports 152~(5) (1987) 227 -- 398.
+\newblock \href
+  {http://dx.doi.org/https://doi.org/10.1016/0370-1573(87)90144-X}
+  {\path{doi:https://doi.org/10.1016/0370-1573(87)90144-X}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/037015738790144X}
+
+\bibitem{jona-lasinio1985}
+G.~Jona-Lasinio, P.~K. Mitter,
+  \href{https://projecteuclid.org:443/euclid.cmp/1104114183}{On the stochastic
+  quantization of field theory}, Comm. Math. Phys. 101~(3) (1985) 409--436.
+\newline\urlprefix\url{https://projecteuclid.org:443/euclid.cmp/1104114183}
+
+\bibitem{PhysRevD.32.2736}
+G.~G. Batrouni, G.~R. Katz, A.~S. Kronfeld, G.~P. Lepage, B.~Svetitsky, K.~G.
+  Wilson, \href{https://link.aps.org/doi/10.1103/PhysRevD.32.2736}{Langevin
+  simulations of lattice field theories}, Phys. Rev. D 32 (1985) 2736--2747.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.32.2736}
+  {\path{doi:10.1103/PhysRevD.32.2736}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.32.2736}
+
+\bibitem{PhysRevB.99.035114}
+G.~G. Batrouni, R.~T. Scalettar,
+  \href{https://link.aps.org/doi/10.1103/PhysRevB.99.035114}{Langevin
+  simulations of a long-range electron-phonon model}, Phys. Rev. B 99 (2019)
+  035114.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevB.99.035114}
+  {\path{doi:10.1103/PhysRevB.99.035114}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevB.99.035114}
+
+\bibitem{Duane:1987de}
+S.~Duane, A.~D. Kennedy, B.~J. Pendleton, D.~Roweth, {Hybrid Monte Carlo},
+  Phys. Lett. B195 (1987) 216--222.
+\newblock \href {http://dx.doi.org/10.1016/0370-2693(87)91197-X}
+  {\path{doi:10.1016/0370-2693(87)91197-X}}.
+
+\bibitem{PhysRevD.35.2531}
+S.~Gottlieb, W.~Liu, D.~Toussaint, R.~L. Renken, R.~L. Sugar,
+  \href{https://link.aps.org/doi/10.1103/PhysRevD.35.2531}{Hybrid-molecular-dynamics
+  algorithms for the numerical simulation of quantum chromodynamics}, Phys.
+  Rev. D 35 (1987) 2531--2542.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.35.2531}
+  {\path{doi:10.1103/PhysRevD.35.2531}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.35.2531}
+
+\bibitem{PTPS1993CLSimulation}
+K.~Okano, L.~Sch{\"u}lke, B.~Zheng, \href{+
+  http://dx.doi.org/10.1143/PTPS.111.313}{Complex langevin simulation*},
+  Progress of Theoretical Physics Supplement 111 (1993) 313--347.
+\newblock \href {http://dx.doi.org/10.1143/PTPS.111.313}
+  {\path{doi:10.1143/PTPS.111.313}}.
+\newline\urlprefix\url{+ http://dx.doi.org/10.1143/PTPS.111.313}
+
+\bibitem{Troyer2012}
+V.~Ambegaokar, M.~Troyer, \href{https://doi.org/10.1119/1.3247985}{Estimating
+  errors reliably in monte carlo simulations of the ehrenfest model}, American
+  Journal of Physics 78~(2) (2010) 150--157.
+\newblock \href {http://arxiv.org/abs/https://doi.org/10.1119/1.3247985}
+  {\path{arXiv:https://doi.org/10.1119/1.3247985}}, \href
+  {http://dx.doi.org/10.1119/1.3247985} {\path{doi:10.1119/1.3247985}}.
+\newline\urlprefix\url{https://doi.org/10.1119/1.3247985}
+
+\bibitem{DRUMMOND1983119}
+I.~Drummond, S.~Duane, R.~Horgan,
+  \href{http://www.sciencedirect.com/science/article/pii/0550321383901372}{The
+  stochastic method for numerical simulations:: Higher order corrections},
+  Nuclear Physics B 220~(1) (1983) 119 -- 136.
+\newblock \href
+  {http://dx.doi.org/https://doi.org/10.1016/0550-3213(83)90137-2}
+  {\path{doi:https://doi.org/10.1016/0550-3213(83)90137-2}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/0550321383901372}
+
+\bibitem{HOROWITZ1987510}
+A.~M. Horowitz,
+  \href{http://www.sciencedirect.com/science/article/pii/0550321387901593}{The
+  second order langevin equation and numerical simulations}, Nuclear Physics B
+  280 (1987) 510 -- 522.
+\newblock \href
+  {http://dx.doi.org/https://doi.org/10.1016/0550-3213(87)90159-3}
+  {\path{doi:https://doi.org/10.1016/0550-3213(87)90159-3}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/0550321387901593}
+
+\bibitem{CATTERALL1991177}
+S.~Catterall, I.~Drummond, R.~Horgan,
+  \href{http://www.sciencedirect.com/science/article/pii/037026939190417O}{Langevin
+  algorithms for spin models}, Physics Letters B 254~(1) (1991) 177 -- 184.
+\newblock \href
+  {http://dx.doi.org/https://doi.org/10.1016/0370-2693(91)90417-O}
+  {\path{doi:https://doi.org/10.1016/0370-2693(91)90417-O}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/037026939190417O}
+
+\bibitem{Aarts2012SU3}
+G.~Aarts, F.~A. James, \href{https://doi.org/10.1007/JHEP01(2012)118}{Complex
+  langevin dynamics in the su(3) spin model at nonzero chemical potential
+  revisited}, Journal of High Energy Physics 2012~(1) (2012) 118.
+\newblock \href {http://dx.doi.org/10.1007/JHEP01(2012)118}
+  {\path{doi:10.1007/JHEP01(2012)118}}.
+\newline\urlprefix\url{https://doi.org/10.1007/JHEP01(2012)118}
+
+\bibitem{AartsPRD81054508}
+G.~Aarts, E.~Seiler, I.-O. Stamatescu,
+  \href{https://link.aps.org/doi/10.1103/PhysRevD.81.054508}{Complex langevin
+  method: When can it be trusted?}, Phys. Rev. D 81 (2010) 054508.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.81.054508}
+  {\path{doi:10.1103/PhysRevD.81.054508}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.81.054508}
+
+\bibitem{CLZeroesFermionDet}
+G.~Aarts, E.~Seiler, D.~Sexty, I.-O. Stamatescu,
+  \href{https://doi.org/10.1007/JHEP05(2017)044}{Complex langevin dynamics and
+  zeroes of the fermion determinant}, Journal of High Energy Physics 2017~(5)
+  (2017) 44.
+\newblock \href {http://dx.doi.org/10.1007/JHEP05(2017)044}
+  {\path{doi:10.1007/JHEP05(2017)044}}.
+\newline\urlprefix\url{https://doi.org/10.1007/JHEP05(2017)044}
+
+\bibitem{Seiler2017StatusOfCL}
+E.~Seiler, {Status of Complex Langevin}, EPJ Web Conf. 175 (2018) 01019.
+\newblock \href {http://arxiv.org/abs/1708.08254} {\path{arXiv:1708.08254}},
+  \href {http://dx.doi.org/10.1051/epjconf/201817501019}
+  {\path{doi:10.1051/epjconf/201817501019}}.
+
+\bibitem{2011EurPhysJC711756}
+G.~Aarts, F.~A. James, E.~Seiler, I.-O. Stamatescu,
+  \href{https://doi.org/10.1140/epjc/s10052-011-1756-5}{Complex langevin:
+  etiology and diagnostics of its main problem}, The European Physical Journal
+  C 71~(10) (2011) 1756.
+\newblock \href {http://dx.doi.org/10.1140/epjc/s10052-011-1756-5}
+  {\path{doi:10.1140/epjc/s10052-011-1756-5}}.
+\newline\urlprefix\url{https://doi.org/10.1140/epjc/s10052-011-1756-5}
+
+\bibitem{CLJustificationPRD94114515}
+K.~Nagata, J.~Nishimura, S.~Shimasaki,
+  \href{https://link.aps.org/doi/10.1103/PhysRevD.94.114515}{Argument for
+  justification of the complex langevin method and the condition for correct
+  convergence}, Phys. Rev. D 94 (2016) 114515.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.94.114515}
+  {\path{doi:10.1103/PhysRevD.94.114515}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.94.114515}
+
+\bibitem{PRDSalcedoCL2016}
+L.~L. Salcedo, \href{https://link.aps.org/doi/10.1103/PhysRevD.94.114505}{Does
+  the complex langevin method give unbiased results?}, Phys. Rev. D 94 (2016)
+  114505.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.94.114505}
+  {\path{doi:10.1103/PhysRevD.94.114505}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.94.114505}
+
+\bibitem{PhysRevD.99.014512}
+M.~Scherzer, E.~Seiler, D.~Sexty, I.-O. Stamatescu,
+  \href{https://link.aps.org/doi/10.1103/PhysRevD.99.014512}{Complex langevin
+  and boundary terms}, Phys. Rev. D 99 (2019) 014512.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.99.014512}
+  {\path{doi:10.1103/PhysRevD.99.014512}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.99.014512}
+
+\bibitem{PhysRevD.92.011501}
+J.~Nishimura, S.~Shimasaki,
+  \href{https://link.aps.org/doi/10.1103/PhysRevD.92.011501}{New insights into
+  the problem with a singular drift term in the complex langevin method}, Phys.
+  Rev. D 92 (2015) 011501.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.92.011501}
+  {\path{doi:10.1103/PhysRevD.92.011501}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.92.011501}
+
+\bibitem{Ambjorn:1985cv}
+J.~Ambjorn, M.~Flensburg, C.~Peterson, {Langevin Simulations of Configurations
+  With Static Charges}, Phys. Lett. 159B (1985) 335--340.
+\newblock \href {http://dx.doi.org/10.1016/0370-2693(85)90262-X}
+  {\path{doi:10.1016/0370-2693(85)90262-X}}.
+
+\bibitem{Ambjorn:1985iw}
+J.~Ambjorn, S.~K. Yang, {Numerical Problems in Applying the Langevin Equation
+  to Complex Effective Actions}, Phys. Lett. 165B (1985) 140.
+\newblock \href {http://dx.doi.org/10.1016/0370-2693(85)90708-7}
+  {\path{doi:10.1016/0370-2693(85)90708-7}}.
+
+\bibitem{SeilerGaugeCooling}
+E.~Seiler, D.~Sexty, I.-O. Stamatescu, {Gauge cooling in complex Langevin for
+  QCD with heavy quarks}, Phys. Lett. B723 (2013) 213--216.
+\newblock \href {http://arxiv.org/abs/1211.3709} {\path{arXiv:1211.3709}},
+  \href {http://dx.doi.org/10.1016/j.physletb.2013.04.062}
+  {\path{doi:10.1016/j.physletb.2013.04.062}}.
+
+\bibitem{Bongiovanni:2013nxa}
+L.~Bongiovanni, G.~Aarts, E.~Seiler, D.~Sexty, I.-O. Stamatescu, {Adaptive
+  gauge cooling for complex Langevin dynamics}, PoS LATTICE2013 (2014) 449.
+\newblock \href {http://arxiv.org/abs/1311.1056} {\path{arXiv:1311.1056}},
+  \href {http://dx.doi.org/10.22323/1.187.0449}
+  {\path{doi:10.22323/1.187.0449}}.
+
+\bibitem{PhysRevD.92.085020}
+H.~Makino, H.~Suzuki, D.~Takeda,
+  \href{https://link.aps.org/doi/10.1103/PhysRevD.92.085020}{Complex langevin
+  method applied to the 2d $su(2)$ yang-mills theory}, Phys. Rev. D 92 (2015)
+  085020.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.92.085020}
+  {\path{doi:10.1103/PhysRevD.92.085020}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.92.085020}
+
+\bibitem{Nagata:2015uga}
+K.~Nagata, J.~Nishimura, S.~Shimasaki, {Justification of the complex Langevin
+  method with the gauge cooling procedure}, PTEP 2016~(1) (2016) 013B01.
+\newblock \href {http://arxiv.org/abs/1508.02377} {\path{arXiv:1508.02377}},
+  \href {http://dx.doi.org/10.1093/ptep/ptv173}
+  {\path{doi:10.1093/ptep/ptv173}}.
+
+\bibitem{Nagata:2016alq}
+K.~Nagata, J.~Nishimura, S.~Shimasaki, {Gauge cooling for the singular-drift
+  problem in the complex Langevin method - a test in Random Matrix Theory for
+  finite density QCD}, JHEP 07 (2016) 073.
+\newblock \href {http://arxiv.org/abs/1604.07717} {\path{arXiv:1604.07717}},
+  \href {http://dx.doi.org/10.1007/JHEP07(2016)073}
+  {\path{doi:10.1007/JHEP07(2016)073}}.
+
+\bibitem{Aarts:2016qhx}
+G.~Aarts, F.~Attanasio, B.~J{\"a}ger, D.~Sexty, {Complex Langevin in Lattice
+  QCD: dynamic stabilisation and the phase diagram}, Acta Phys. Polon. Supp. 9
+  (2016) 621.
+\newblock \href {http://arxiv.org/abs/1607.05642} {\path{arXiv:1607.05642}},
+  \href {http://dx.doi.org/10.5506/APhysPolBSupp.9.621}
+  {\path{doi:10.5506/APhysPolBSupp.9.621}}.
+
+\bibitem{Lattice2016AttanasioJager}
+F.~Attanasio, B.~J{\"a}ger, {Testing dynamic stabilisation in complex Langevin
+  simulations}, PoS LATTICE2016 (2016) 053.
+\newblock \href {http://arxiv.org/abs/1610.09298} {\path{arXiv:1610.09298}}.
+
+\bibitem{Lattice2017AttanasioJager}
+{Attanasio, Felipe}, {J{\"a}ger, Benjamin}, Improved convergence of complex
+  langevin simulations, EPJ Web Conf. 175 (2018) 07039.
+
+\bibitem{Attanasio2019}
+F.~Attanasio, B.~J{\"a}ger,
+  \href{https://doi.org/10.1140/epjc/s10052-018-6512-7}{Dynamical stabilisation
+  of complex langevin simulations of qcd}, The European Physical Journal C
+  79~(1) (2019) 16.
+\newblock \href {http://dx.doi.org/10.1140/epjc/s10052-018-6512-7}
+  {\path{doi:10.1140/epjc/s10052-018-6512-7}}.
+\newline\urlprefix\url{https://doi.org/10.1140/epjc/s10052-018-6512-7}
+
+\bibitem{PRD95094502}
+A.~C. Loheac, J.~E. Drut,
+  \href{https://link.aps.org/doi/10.1103/PhysRevD.95.094502}{Third-order
+  perturbative lattice and complex langevin analyses of the finite-temperature
+  equation of state of nonrelativistic fermions in one dimension}, Phys. Rev. D
+  95 (2017) 094502.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.95.094502}
+  {\path{doi:10.1103/PhysRevD.95.094502}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.95.094502}
+
+\bibitem{xue1986}
+S.-S. Xue,
+  \href{http://www.sciencedirect.com/science/article/pii/0370269386903096}{The
+  fokker-planck equations in lattice gauge theories}, Physics Letters B 180~(3)
+  (1986) 275 -- 280.
+\newblock \href
+  {http://dx.doi.org/https://doi.org/10.1016/0370-2693(86)90309-6}
+  {\path{doi:https://doi.org/10.1016/0370-2693(86)90309-6}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/0370269386903096}
+
+\bibitem{GuralnikNPB200905503213}
+G.~Guralnik, C.~Pehlevan,
+  \href{http://www.sciencedirect.com/science/article/pii/S0550321308006822}{Complex
+  langevin equations and schwinger-dyson equations}, Nuclear Physics B 811~(3)
+  (2009) 519 -- 536.
+\newblock \href
+  {http://dx.doi.org/https://doi.org/10.1016/j.nuclphysb.2008.11.034}
+  {\path{doi:https://doi.org/10.1016/j.nuclphysb.2008.11.034}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0550321308006822}
+
+\bibitem{Salcedo1993SpuriousCLSolutions}
+L.~L. {Salcedo}, {Spurious solutions of the complex Langevin equation}, Physics
+  Letters B 305 (1993) 125--130.
+\newblock \href {http://dx.doi.org/10.1016/0370-2693(93)91116-5}
+  {\path{doi:10.1016/0370-2693(93)91116-5}}.
+
+\bibitem{Salcedo:2018fvt}
+L.~L. Salcedo, E.~Seiler, {Schwinger�Dyson equations and line integrals}, J.
+  Phys. A52~(3) (2019) 035201.
+\newblock \href {http://arxiv.org/abs/1809.06888} {\path{arXiv:1809.06888}},
+  \href {http://dx.doi.org/10.1088/1751-8121/aaefca}
+  {\path{doi:10.1088/1751-8121/aaefca}}.
+
+\bibitem{Lattice2012Aarts}
+G.~Aarts, {Complex Langevin dynamics and other approaches at finite chemical
+  potential}, PoS LATTICE2012 (2012) 017.
+\newblock \href {http://arxiv.org/abs/1302.3028} {\path{arXiv:1302.3028}}.
+
+\bibitem{Berges:2006xc}
+J.~Berges, S.~Borsanyi, D.~Sexty, I.~O. Stamatescu, {Lattice simulations of
+  real-time quantum fields}, Phys. Rev. D75 (2007) 045007.
+\newblock \href {http://arxiv.org/abs/hep-lat/0609058}
+  {\path{arXiv:hep-lat/0609058}}, \href
+  {http://dx.doi.org/10.1103/PhysRevD.75.045007}
+  {\path{doi:10.1103/PhysRevD.75.045007}}.
+
+\bibitem{Berges:2007nr}
+J.~Berges, D.~Sexty, {Real-time gauge theory simulations from stochastic
+  quantization with optimized updating}, Nucl. Phys. B799 (2008) 306--329.
+\newblock \href {http://arxiv.org/abs/0708.0779} {\path{arXiv:0708.0779}},
+  \href {http://dx.doi.org/10.1016/j.nuclphysb.2008.01.018}
+  {\path{doi:10.1016/j.nuclphysb.2008.01.018}}.
+
+\bibitem{deAguiar:2010ue}
+T.~C. de~Aguiar, N.~F. Svaiter, G.~Menezes, {Stochastic Quantization of
+  Real-Time Thermal Field Theory}, J. Math. Phys. 51 (2010) 102304.
+\newblock \href {http://arxiv.org/abs/0908.3009} {\path{arXiv:0908.3009}},
+  \href {http://dx.doi.org/10.1063/1.3492927} {\path{doi:10.1063/1.3492927}}.
+
+\bibitem{PhysRevLett.55.2242}
+F.~Karsch, H.~W. Wyld,
+  \href{https://link.aps.org/doi/10.1103/PhysRevLett.55.2242}{Complex langevin
+  simulation of the su(3) spin model with nonzero chemical potential}, Phys.
+  Rev. Lett. 55 (1985) 2242--2245.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevLett.55.2242}
+  {\path{doi:10.1103/PhysRevLett.55.2242}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevLett.55.2242}
+
+\bibitem{2017EPJWC13707030B}
+J.~{Bloch}, J.~{Glesaaen}, O.~{Philipsen}, J.~{Verbaarschot},
+  S.~{Zafeiropoulos}, {Complex Langevin simulations of a finite density matrix
+  model for QCD}, in: European Physical Journal Web of Conferences, Vol. 137 of
+  European Physical Journal Web of Conferences, 2017, p. 07030.
+\newblock \href {http://arxiv.org/abs/1612.04621} {\path{arXiv:1612.04621}},
+  \href {http://dx.doi.org/10.1051/epjconf/201713707030}
+  {\path{doi:10.1051/epjconf/201713707030}}.
+
+\bibitem{2014arXiv1411.0949B}
+L.~{Bongiovanni}, G.~{Aarts}, E.~{Seiler}, D.~{Sexty}, {Complex Langevin
+  dynamics for SU(3) gauge theory in the presence of a theta term}, arXiv
+  e-prints\href {http://arxiv.org/abs/1411.0949} {\path{arXiv:1411.0949}}.
+
+\bibitem{Sexty:2013ica}
+D.~Sexty, {Simulating full QCD at nonzero density using the complex Langevin
+  equation}, Phys. Lett. B729 (2014) 108--111.
+\newblock \href {http://arxiv.org/abs/1307.7748} {\path{arXiv:1307.7748}},
+  \href {http://dx.doi.org/10.1016/j.physletb.2014.01.019}
+  {\path{doi:10.1016/j.physletb.2014.01.019}}.
+
+\bibitem{Lattice2015KogutSinclair}
+D.~K. Sinclair, J.~B. Kogut, {Exploring Complex-Langevin Methods for
+  Finite-Density QCD}, PoS LATTICE2015 (2016) 153.
+\newblock \href {http://arxiv.org/abs/1510.06367} {\path{arXiv:1510.06367}}.
+
+\bibitem{LATTICE2016PROCSinclairKogut}
+D.~K. {Sinclair}, J.~B. {Kogut}, Complex langevin for lattice qcd at t=0 and
+  {$\mu$} {$\ge$} 0., in: Proceedings of the 34th annual International
+  Symposium on Lattice Field Theory (LATTICE2016). 24-30 July 2016. University
+  of Southampton, UK., 2016, p.~26.
+\newblock \href {http://arxiv.org/abs/1611.02312} {\path{arXiv:1611.02312}}.
+
+\bibitem{Lattice2017KogutSinclair}
+D.~K. Sinclair, J.~B. Kogut, {Complex Langevin Simulations of QCD at Finite
+  Density. Progress Report}, EPJ Web Conf. 175 (2018) 07031.
+\newblock \href {http://arxiv.org/abs/1710.08465} {\path{arXiv:1710.08465}},
+  \href {http://dx.doi.org/10.1051/epjconf/201817507031}
+  {\path{doi:10.1051/epjconf/201817507031}}.
+
+\bibitem{Sinclair:2018rbk}
+D.~K. Sinclair, J.~B. Kogut, {Complex Langevin for Lattice QCD}, PoS
+  LATTICE2018 (2018) 143.
+\newblock \href {http://arxiv.org/abs/1810.11880} {\path{arXiv:1810.11880}},
+  \href {http://dx.doi.org/10.22323/1.334.0143}
+  {\path{doi:10.22323/1.334.0143}}.
+
+\bibitem{Kogut:2019qmi}
+J.~B. Kogut, D.~K. Sinclair, {Applying Complex Langevin Simulations to Lattice
+  QCD at Finite Density}\href {http://arxiv.org/abs/1903.02622}
+  {\path{arXiv:1903.02622}}.
+
+\bibitem{2018EPJWC17507017N}
+K.~{Nagata}, J.~{Nishimura}, S.~{Shimasaki}, {Complex Langevin simulation of
+  QCD at finite density and low temperature using the deformation technique},
+  in: European Physical Journal Web of Conferences, Vol. 175 of European
+  Physical Journal Web of Conferences, 2018, p. 07017.
+\newblock \href {http://arxiv.org/abs/1710.07416} {\path{arXiv:1710.07416}},
+  \href {http://dx.doi.org/10.1051/epjconf/201817507017}
+  {\path{doi:10.1051/epjconf/201817507017}}.
+
+\bibitem{2015arXiv150805252B}
+J.~{Bloch}, J.~{Mahr}, S.~{Schmalzbauer}, {Complex Langevin in low-dimensional
+  QCD: the good and the not-so-good}, ArXiv e-prints\href
+  {http://arxiv.org/abs/1508.05252} {\path{arXiv:1508.05252}}.
+
+\bibitem{JHEP0820101017}
+G.~Aarts, K.~Splittorff,
+  \href{https://doi.org/10.1007/JHEP08(2010)017}{Degenerate distributions in
+  complex langevin dynamics: one-dimensional qcd at finite chemical potential},
+  Journal of High Energy Physics 2010~(8) (2010) 17.
+\newblock \href {http://dx.doi.org/10.1007/JHEP08(2010)017}
+  {\path{doi:10.1007/JHEP08(2010)017}}.
+\newline\urlprefix\url{https://doi.org/10.1007/JHEP08(2010)017}
+
+\bibitem{2017arXiv170101298B}
+J.~{Bloch}, J.~{Meisinger}, S.~{Schmalzbauer}, {Reweighted complex Langevin and
+  its application to two-dimensional QCD}, ArXiv e-prints\href
+  {http://arxiv.org/abs/1701.01298} {\path{arXiv:1701.01298}}.
+
+\bibitem{PhysRevD95054509}
+J.~Bloch,
+  \href{https://link.aps.org/doi/10.1103/PhysRevD.95.054509}{Reweighting
+  complex langevin trajectories}, Phys. Rev. D 95 (2017) 054509.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.95.054509}
+  {\path{doi:10.1103/PhysRevD.95.054509}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.95.054509}
+
+\bibitem{2018EPJWC17507034B}
+J.~{Bloch}, J.~{Glesaaen}, J.~{Verbaarschot}, S.~{Zafeiropoulos}, {Progress on
+  Complex Langevin simulations of a finite density matrix model for QCD}, in:
+  European Physical Journal Web of Conferences, Vol. 175 of European Physical
+  Journal Web of Conferences, 2018, p. 07034.
+\newblock \href {http://arxiv.org/abs/1801.06456} {\path{arXiv:1801.06456}},
+  \href {http://dx.doi.org/10.1051/epjconf/201817507034}
+  {\path{doi:10.1051/epjconf/201817507034}}.
+
+\bibitem{2018JHEP03015B}
+J.~{Bloch}, J.~{Glesaaen}, J.~J.~M. {Verbaarschot}, S.~{Zafeiropoulos},
+  {Complex Langevin simulation of a random matrix model at nonzero chemical
+  potential}, Journal of High Energy Physics 3 (2018) 15.
+\newblock \href {http://arxiv.org/abs/1712.07514} {\path{arXiv:1712.07514}},
+  \href {http://dx.doi.org/10.1007/JHEP03(2018)015}
+  {\path{doi:10.1007/JHEP03(2018)015}}.
+
+\bibitem{PRD201311116007}
+A.~Mollgaard, K.~Splittorff, {Complex Langevin Dynamics for chiral Random
+  Matrix Theory}, Phys. Rev. D 88~(11) (2013) 116007.
+\newblock \href {http://arxiv.org/abs/1309.4335} {\path{arXiv:1309.4335}},
+  \href {http://dx.doi.org/10.1103/PhysRevD.88.116007}
+  {\path{doi:10.1103/PhysRevD.88.116007}}.
+
+\bibitem{2013arXiv13107412A}
+G.~{Aarts}, L.~{Bongiovanni}, E.~{Seiler}, D.~{Sexty}, I.-O. {Stamatescu},
+  {Complex Langevin simulation for QCD-like models}, ArXiv e-prints\href
+  {http://arxiv.org/abs/1310.7412} {\path{arXiv:1310.7412}}.
+
+\bibitem{POSInsightsintoHDQCDusingCL}
+G.~Aarts, F.~Attanasio, B.~J{\"a}ger, E.~Seiler, D.~Sexty, I.-O. Stamatescu,
+  {Insights into the heavy dense QCD phase diagram using Complex Langevin
+  simulations}, PoS LATTICE2015 (2016) 155.
+\newblock \href {http://arxiv.org/abs/1510.09100} {\path{arXiv:1510.09100}}.
+
+\bibitem{Aarts:2016qrv}
+G.~Aarts, F.~Attanasio, B.~J{\"a}ger, D.~Sexty, {The QCD phase diagram in the
+  limit of heavy quarks using complex Langevin dynamics}, JHEP 09 (2016) 087.
+\newblock \href {http://arxiv.org/abs/1606.05561} {\path{arXiv:1606.05561}},
+  \href {http://dx.doi.org/10.1007/JHEP09(2016)087}
+  {\path{doi:10.1007/JHEP09(2016)087}}.
+
+\bibitem{PhysRevA92043628}
+T.~Hayata, A.~Yamamoto,
+  \href{https://link.aps.org/doi/10.1103/PhysRevA.92.043628}{Complex langevin
+  simulation of quantum vortices in a bose-einstein condensate}, Phys. Rev. A
+  92 (2015) 043628.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevA.92.043628}
+  {\path{doi:10.1103/PhysRevA.92.043628}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevA.92.043628}
+
+\bibitem{RevModPhys.85.1633}
+X.-W. Guan, M.~T. Batchelor, C.~Lee,
+  \href{https://link.aps.org/doi/10.1103/RevModPhys.85.1633}{Fermi gases in one
+  dimension: From bethe ansatz to experiments}, Rev. Mod. Phys. 85 (2013)
+  1633--1691.
+\newblock \href {http://dx.doi.org/10.1103/RevModPhys.85.1633}
+  {\path{doi:10.1103/RevModPhys.85.1633}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/RevModPhys.85.1633}
+
+\bibitem{0954-3899-44-1-015101}
+S.~Kemler, M.~Pospiech, J.~Braun,
+  \href{http://stacks.iop.org/0954-3899/44/i=1/a=015101}{Formation of
+  self-bound states in a one-dimensional nuclear model: A renormalization group
+  based density functional study}, Journal of Physics G: Nuclear and Particle
+  Physics 44~(1) (2017) 015101.
+\newline\urlprefix\url{http://stacks.iop.org/0954-3899/44/i=1/a=015101}
+
+\bibitem{1742-5468-2007-06-P06011}
+T.~Iida, M.~Wadati,
+  \href{http://stacks.iop.org/1742-5468/2007/i=06/a=P06011}{Exact analysis of a
+  delta-function spin-1/2 attractive fermi gas with arbitrary polarization},
+  Journal of Statistical Mechanics: Theory and Experiment 2007~(06) (2007)
+  P06011.
+\newline\urlprefix\url{http://stacks.iop.org/1742-5468/2007/i=06/a=P06011}
+
+\bibitem{doi:10.1063/1.4964252}
+C.~A. Tracy, H.~Widom, \href{https://doi.org/10.1063/1.4964252}{On the ground
+  state energy of the delta-function fermi gas}, Journal of Mathematical
+  Physics 57~(10) (2016) 103301.
+\newblock \href {http://dx.doi.org/10.1063/1.4964252}
+  {\path{doi:10.1063/1.4964252}}.
+\newline\urlprefix\url{https://doi.org/10.1063/1.4964252}
+
+\bibitem{PhysRevA.96.033635}
+L.~Rammelm\"uller, W.~J. Porter, J.~Braun, J.~E. Drut,
+  \href{https://link.aps.org/doi/10.1103/PhysRevA.96.033635}{Evolution from
+  few- to many-body physics in one-dimensional fermi systems: One- and two-body
+  density matrices and particle-partition entanglement}, Phys. Rev. A 96 (2017)
+  033635.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevA.96.033635}
+  {\path{doi:10.1103/PhysRevA.96.033635}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevA.96.033635}
+
+\bibitem{PhysRevD.99.074511}
+H.~Singh, S.~Chandrasekharan,
+  \href{https://link.aps.org/doi/10.1103/PhysRevD.99.074511}{Few-body physics
+  on a spacetime lattice in the worldline approach}, Phys. Rev. D 99 (2019)
+  074511.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.99.074511}
+  {\path{doi:10.1103/PhysRevD.99.074511}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.99.074511}
+
+\bibitem{2018arXiv181202364S}
+H.~{Singh}, {Worldline approach to few-body physics on the lattice}, arXiv
+  e-prints (2018) arXiv:1812.02364\href {http://arxiv.org/abs/1812.02364}
+  {\path{arXiv:1812.02364}}.
+
+\bibitem{PhysRevA.91.033618}
+M.~D. Hoffman, P.~D. Javernick, A.~C. Loheac, W.~J. Porter, E.~R. Anderson,
+  J.~E. Drut,
+  \href{https://link.aps.org/doi/10.1103/PhysRevA.91.033618}{Universality in
+  one-dimensional fermions at finite temperature: Density, pressure,
+  compressibility, and contact}, Phys. Rev. A 91 (2015) 033618.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevA.91.033618}
+  {\path{doi:10.1103/PhysRevA.91.033618}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevA.91.033618}
+
+\bibitem{PhysRevD.98.054507}
+A.~C. Loheac, J.~Braun, J.~E. Drut,
+  \href{https://link.aps.org/doi/10.1103/PhysRevD.98.054507}{Polarized fermions
+  in one dimension: Density and polarization from complex langevin
+  calculations, perturbation theory, and the virial expansion}, Phys. Rev. D 98
+  (2018) 054507.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.98.054507}
+  {\path{doi:10.1103/PhysRevD.98.054507}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.98.054507}
+
+\bibitem{PhysRevA.85.051601}
+J.~E. Drut, T.~A. L\"ahde, G.~Wlaz\l{}owski, P.~Magierski,
+  \href{https://link.aps.org/doi/10.1103/PhysRevA.85.051601}{Equation of state
+  of the unitary fermi gas: An update on lattice calculations}, Phys. Rev. A 85
+  (2012) 051601.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevA.85.051601}
+  {\path{doi:10.1103/PhysRevA.85.051601}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevA.85.051601}
+
+\bibitem{PhysRevLett.110.090401}
+G.~Wlaz\l{}owski, P.~Magierski, J.~E. Drut, A.~Bulgac, K.~J. Roche,
+  \href{https://link.aps.org/doi/10.1103/PhysRevLett.110.090401}{Cooper pairing
+  above the critical temperature in a unitary fermi gas}, Phys. Rev. Lett. 110
+  (2013) 090401.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevLett.110.090401}
+  {\path{doi:10.1103/PhysRevLett.110.090401}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevLett.110.090401}
+
+\bibitem{PhysRevA.93.053604}
+O.~Goulko, M.~Wingate, {Numerical study of the unitary Fermi gas across the
+  superfluid transition}, Phys. Rev. A 93~(5) (2016) 053604.
+\newblock \href {http://arxiv.org/abs/1507.08230} {\path{arXiv:1507.08230}},
+  \href {http://dx.doi.org/10.1103/PhysRevA.93.053604}
+  {\path{doi:10.1103/PhysRevA.93.053604}}.
+
+\bibitem{Jensen2019}
+S.~Jensen, C.~N. Gilbreth, Y.~Alhassid,
+  \href{https://doi.org/10.1140/epjst/e2019-800105-y}{The pseudogap regime in
+  the unitary fermi gas}, The European Physical Journal Special Topics 227~(15)
+  (2019) 2241--2261.
+\newblock \href {http://dx.doi.org/10.1140/epjst/e2019-800105-y}
+  {\path{doi:10.1140/epjst/e2019-800105-y}}.
+\newline\urlprefix\url{https://doi.org/10.1140/epjst/e2019-800105-y}
+
+\bibitem{PhysRevA.84.061602}
+J.~Carlson, S.~Gandolfi, K.~E. Schmidt, S.~Zhang,
+  \href{https://link.aps.org/doi/10.1103/PhysRevA.84.061602}{Auxiliary-field
+  quantum monte carlo method for strongly paired fermions}, Phys. Rev. A 84
+  (2011) 061602.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevA.84.061602}
+  {\path{doi:10.1103/PhysRevA.84.061602}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevA.84.061602}
+
+\bibitem{PhysRevB.73.115112}
+D.~Lee, \href{https://link.aps.org/doi/10.1103/PhysRevB.73.115112}{Ground-state
+  energy of spin-$\frac{1}{2}$ fermions in the unitary limit}, Phys. Rev. B 73
+  (2006) 115112.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevB.73.115112}
+  {\path{doi:10.1103/PhysRevB.73.115112}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevB.73.115112}
+
+\bibitem{PhysRevLett.121.130405}
+R.~Rossi, T.~Ohgoe, K.~Van~Houcke, F.~Werner,
+  \href{https://link.aps.org/doi/10.1103/PhysRevLett.121.130405}{Resummation of
+  diagrammatic series with zero convergence radius for strongly correlated
+  fermions}, Phys. Rev. Lett. 121 (2018) 130405.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevLett.121.130405}
+  {\path{doi:10.1103/PhysRevLett.121.130405}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevLett.121.130405}
+
+\bibitem{VanHoucke2012}
+K.~Van~Houcke, F.~Werner, E.~Kozik, N.~Prokof'ev, B.~Svistunov, M.~J.~H. Ku,
+  A.~T. Sommer, L.~W. Cheuk, A.~Schirotzek, M.~W. Zwierlein,
+  \href{http://dx.doi.org/10.1038/nphys2273}{Feynman diagrams versus fermi-gas
+  feynman emulator}, Nature Physics 8 (2012) 366.
+\newline\urlprefix\url{http://dx.doi.org/10.1038/nphys2273}
+
+\bibitem{2018UFGviaCL}
+L.~Rammelm\"uller, A.~C. Loheac, J.~E. Drut, J.~Braun,
+  \href{https://link.aps.org/doi/10.1103/PhysRevLett.121.173001}{Finite-temperature
+  equation of state of polarized fermions at unitarity}, Phys. Rev. Lett. 121
+  (2018) 173001.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevLett.121.173001}
+  {\path{doi:10.1103/PhysRevLett.121.173001}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevLett.121.173001}
+
+\bibitem{LIU201337}
+X.-J. Liu,
+  \href{http://www.sciencedirect.com/science/article/pii/S0370157312003493}{Virial
+  expansion for a strongly correlated fermi system and its application to
+  ultracold atomic fermi gases}, Physics Reports 524~(2) (2013) 37 -- 83,
+  virial expansion for a strongly correlated Fermi system and its application
+  to ultracold atomic Fermi gases.
+\newblock \href
+  {http://dx.doi.org/https://doi.org/10.1016/j.physrep.2012.10.004}
+  {\path{doi:https://doi.org/10.1016/j.physrep.2012.10.004}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0370157312003493}
+
+\end{thebibliography}

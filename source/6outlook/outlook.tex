@@ -1,0 +1,56 @@
+\documentclass[../main.tex]{subfiles}
+\begin{document}
+\section{\label{sect:outlook}Summary and Outlook}
+
+In this report we have discussed the origin and methods to address the sign problem as it appears across a wide range of
+systems in relativistic and nonrelativistic quantum many-body physics. We have proposed a broad classification of the various methods into
+{\it new-variables}, {\it statistical}, and {\it complex-plane} approaches. After a brief overview of each of those categories,
+we focused on the complex form of stochastic quantization, namely CL.
+
+Complex Langevin first appeared in the 80s as a natural generalization of stochastic quantization for cases with a complex action.
+Operationally, stochastic quantization does not require a probability to be defined (there is no Metropolis accept/reject step), which made field
+complexification (itself needed in the presence of a sign or complex phase problem) look more like a feature than a bug. From the
+mathematical standpoint, however, the challenges seemed daunting. It took decades for the community to begin to understand the properties and
+behavior of CL, to clarify the origin of its problems and limitations, and to propose solutions. Some of that progress was enabled by advances in
+hardware, as modern personal computers are powerful enough to run small but useful quantum field theory calculations with little wait; %(while on a train or sitting at a coffee shop)
+that was certainly not the case in the 80s, nor in the 90s when initial explorations of this method were underway.
+
+As computer power continues to grow, and given the overall progress made during the last decade, there is good reason for optimism.
+Furthermore, there are now several groups and international collaborations around the world applying CL methods to many systems, which
+generate a wider range of situations than ever before from which insight can be gained. The most remarkable step forward, in the latest chapter
+in the history of CL, is the derivation of conditions for correctness and how they relate to behavior at the boundaries of the integration region (at
+infinity and at zeros of the complex weight). This new understanding has spawned new practical solutions such as gauge cooling, dynamic
+stabilization, and modified actions (regulators), which have enabled more applications than previously thought possible.
+Continued studies of CL will help illuminate when the method is reliable and when it is not. A more detailed understanding of the structure of
+the problems in CL might help develop new methods to ameliorate or solve those problems.
+
+%\subsection{Remaining Questions and Concerns}
+%The application of CL to systems which suffer from a sign problem remains an area of active research. Concerns still remain about the
+%consistency of the method, and the regimes in which it can be accurately used. The existence of anomalies which cause the method to
+%converge to incorrect results is perhaps the question of greatest concern, as for the moment these anomalies cannot be predicted
+%~\cite{PRDSalcedoCL2016}.
+
+%One such study has recently suggested a mechanism for convergence to incorrect solutions, as well as a way to monitor that
+%mechanism~\cite{PhysRevD.99.014512}. This work re-examines a model system previously studied in \cite{BERGES2008306},
+%and by Stamatescu in unpublished notes: the system with complex action $S = i \beta \cos(x)$. The result of the CL
+%simulation on this model is a well-converged set of results which are incorrect (but are equivalent to the stationary solution of the
+%FP equation). The problem arises from the boundary terms of the Langevin time-dependent expectation values, which
+%do not vanish for arbitrarily large Langevin time. While the boundary terms are not themselves accessible to general lattice
+%calculations, the initial value of that boundary term appears to set the maximum of the boundary values, and so can help establish
+%correctness of the results.
+
+%\subsection{Comparison with other methods}
+%Other methods exist to circumvent the sign problem, which were discussed in some detail in section~\ref{genformal}, all of which
+%break down in particular regions. Complex Langevin can be checked against some of these methods in regions where both methods
+%are applicable, and can serve as a benchmark for others in regimes where accuracy of the other method is unclear. This has already
+%been examined in a comparison of CL with reweighting in lattice QCD. The two methods break down in different regions, with CL failing
+%for small values of the coupling ($\beta$) and multi-parameter reweighting breaking down when the ratio of chemical potential and
+%temperature fall into a specific range, $\mu/T \approx 1 - 1.5$~\cite{PRD92094516}. Additionally, phase-quenched approaches involve
+%calculations which are in principle simple, and they work in some cases to compare against CL in situations where the sign problem is
+%mild~\cite{Lattice2012Aarts}. More examples exists of areas where alternative methods for circumventing the sign problem can be used
+%to study the method and confirm or refine its results.
+
+%\subsection{The Future of Complex Langevin}
+
+
+\end{document}

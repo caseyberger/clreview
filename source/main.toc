@@ -1,0 +1,40 @@
+\contentsline {section}{\numberline {1}Introduction}{3}
+\contentsline {subsection}{\numberline {1.1}The challenge of many-body quantum mechanics: memory and statistics}{3}
+\contentsline {subsection}{\numberline {1.2}Path integrals and the sign problem}{4}
+\contentsline {section}{\numberline {2} Approaches to the sign problem: from reweighting to complex Langevin}{8}
+\contentsline {subsection}{\numberline {2.1}Reweighting\nobreakspace {}}{8}
+\contentsline {subsection}{\numberline {2.2}Alternative Hubbard-Stratonovich transformations}{9}
+\contentsline {subsection}{\numberline {2.3}Density of states\nobreakspace {}}{11}
+\contentsline {subsection}{\numberline {2.4}Dual variables for bosons\nobreakspace {}}{14}
+\contentsline {subsection}{\numberline {2.5}Dual variables for fermions and fermion bags}{16}
+\contentsline {paragraph}{Proof of trace-determinant identity}{18}
+\contentsline {subsection}{\numberline {2.6}Majorana fermions\nobreakspace {}}{18}
+\contentsline {subsection}{\numberline {2.7}Imaginary asymmetry\nobreakspace {}}{19}
+\contentsline {subsection}{\numberline {2.8}Lefschetz thimbles\nobreakspace {}}{20}
+\contentsline {section}{\numberline {3}The Langevin method for real and complex variables}{22}
+\contentsline {subsection}{\numberline {3.1}Complex Langevin: origins and modern re-emergence\nobreakspace {}}{22}
+\contentsline {subsection}{\numberline {3.2}Stochastic quantization: path integrals and the Langevin process}{23}
+\contentsline {subsection}{\numberline {3.3}A practical guide to real Langevin}{25}
+\contentsline {subsubsection}{\numberline {3.3.1}Toy problem I: a pedagogical example of real Langevin }{26}
+\contentsline {subsection}{\numberline {3.4}A practical guide to complex Langevin}{29}
+\contentsline {subsubsection}{\numberline {3.4.1}Toy problem II: a complex toy problem}{30}
+\contentsline {subsection}{\numberline {3.5}Formal aspects and justification}{31}
+\contentsline {subsection}{\numberline {3.6}Challenges}{34}
+\contentsline {subsubsection}{\numberline {3.6.1}Mathematical aspects: convergence, correctness, boundary terms, and ergodicity}{34}
+\contentsline {subsubsection}{\numberline {3.6.2}Practical aspects: numerical instabilities, gauge cooling, dynamic stabilization, and regulators}{35}
+\contentsline {section}{\numberline {4}Applications in relativistic physics: non-equilibrium QFT and finite density QCD}{37}
+\contentsline {subsection}{\numberline {4.1}QCD-inspired toy models}{37}
+\contentsline {subsection}{\numberline {4.2}$3+1$ dimensional QCD at finite chemical potential}{38}
+\contentsline {subsection}{\numberline {4.3}Low-dimensional QCD at non-zero chemical potential}{38}
+\contentsline {subsection}{\numberline {4.4}Ongoing work in QCD}{39}
+\contentsline {section}{\numberline {5}Applications in nonrelativistic matter: ultracold atomic gases}{40}
+\contentsline {subsection}{\numberline {5.1}Nonrelativistic bosons}{40}
+\contentsline {subsection}{\numberline {5.2}Nonrelativistic fermions in $1$ dimension}{40}
+\contentsline {subsubsection}{\numberline {5.2.1}1D fermions in the ground state }{40}
+\contentsline {paragraph}{Balanced systems}{41}
+\contentsline {paragraph}{Mass-imbalanced Fermi-Fermi mixtures}{41}
+\contentsline {subsubsection}{\numberline {5.2.2}1D fermions at finite temperature }{42}
+\contentsline {paragraph}{Repulsive interactions}{42}
+\contentsline {paragraph}{Spin-polarized systems}{43}
+\contentsline {subsection}{\numberline {5.3}Nonrelativistic fermions in $3$ dimensions: the polarized unitary Fermi gas.}{44}
+\contentsline {section}{\numberline {6}Summary and Outlook}{46}
