@@ -1,0 +1,13 @@
+Our response to reviewers (draft)
+
+>> [ R1 Q1a: Improve discussion on experimental background ]
+>> [ R1 Q1b: Improve discussion on theoretical background ]
+>> [ R1 Q2: Improve discussion on why it is a good idea to use real noise ]
+>> [ R1 Q3: Is there anything here beyond empirical observation? ]
+>> [ R1 Q4: Improve discussion on connection with Lefschetz thimbles. ]
+>> [ R2 Q1: Certainly true that some sections are very brief. Identify those (e.g. Sec. 2.7) and try to balance.]
+>> [ R2 Q2a: Explain whatever is going on in the figures shown in Sec. 4.1, as needed.]
+>> [ R2 Q2b: Fix the problem with HQCD.]
+>> [ R2 Q2c: Perhaps remove non-equilibrium parts altogether?]
+>> [R2 Q3a: Clarify (at least to this referee) the rationale for presenting other approaches.]
+>> [R2 Q3b: Clarify the applications of CL in QFT.]
